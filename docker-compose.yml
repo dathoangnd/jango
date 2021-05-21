@@ -1,0 +1,29 @@
+version: "3.8"
+services:
+  mysql:
+    image: mysql:8.0.25
+    environment:
+      - MYSQL_DATABASE=jango
+      - MYSQL_ROOT_PASSWORD=123456
+    ports:
+      - "3305:3306"
+  api_server:
+    build: ./api
+    environment:
+      - DB_HOST=mysql
+      - DB_PORT=3306
+      - DB_NAME=jango
+      - DB_USERNAME=root
+      - DB_PASSWORD=123456
+      - TOKEN_SECRET=secret
+      - ADMIN_ID=1
+    depends_on:
+      - mysql
+    ports:
+      - "3000:3000"
+  nuxt_server:
+    build: ./ssr
+    environment:
+      - API_URL=api_server
+    ports:
+      - "8000:8000"

@@ -1,0 +1,902 @@
+[
+  {
+    "text":"ガソリン",
+    "read":"",
+    "meaning":"xăng",
+    "example-text":"車にガソリンを入れました。ガソリンの価格がどんどん上がっている。",
+    "example-read":"くるま に ガソリン を いれました。ガソリン の かかく が どんどん あがって いる。",
+    "example-meaning":"Tôi đổ xăng vào xe của tôi. Giá xăng dầu tiếp tục đi lên nhanh.",
+    "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9lcjYzYmVlbTQuanBlZw==/er63beem4_140x140.jpeg"
+  },
+  {
+    "text":"パンツ",
+    "read":"",
+    "meaning":"quần",
+    "example-text":"彼女はスカートよりパンツが似合うね。",
+    "example-read":"かのじょ は スカート より パンツ が にあう ね。",
+    "example-meaning":"Cô ấy có vẻ hợp với quần hơn váy.",
+    "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi85NGJzOTk5ZWU4LmpwZWc=/94bs999ee8_140x140.jpeg"
+  },
+  {
+    "text":"そっくり",
+    "read":"",
+    "meaning":"giống hệt nhau",
+    "example-text":"あの親子はそっくりだね。",
+    "example-read":"あの おやこ は そっくり だ ね。",
+    "example-meaning":"Cha mẹ và con trông giống hệt nhau.",
+    "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi85NTJuNWdib2tzLmpwZWc=/952n5gboks_140x140.jpeg"
+  },
+  {
+    "text":"名刺",
+    "read":"[めいし]",
+    "meaning":"danh thiếp",
+    "example-text":"私たちは名刺を交換しました。",
+    "example-read":"わたし たち は めいし を こうかん しました。",
+    "example-meaning":"Chúng tôi trao đổi danh thiếp với nhau.",
+    "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi80NWQyMjc0NXEwLmpwZWc=/45d22745q0_140x140.jpeg"
+  },
+  {
+    "text":"いちいち",
+    "read":"",
+    "meaning":"mọi thứ",
+    "example-text":"彼はいちいち私に指図する。",
+    "example-read":"かれ は いちいち わたし に さしず する。",
+    "example-meaning":"Ông luôn để cho tôi chỉ thị tất cả mọi thứ.",
+    "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9hNTEyM2hhMzg0LmpwZWc=/a5123ha384_140x140.jpeg"
+  },
+  {
+    "text":"しつこい",
+    "read":"",
+    "meaning":"dai dẳng",
+    "example-text":"しつこい迷惑メールに困っている。",
+    "example-read":"しつこい めいわく メール に こまって いる。",
+    "example-meaning":"Tôi gặp rắc rối với thư rác dai dẳng.",
+    "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9lNTYwNjBhcHE4LmpwZWc=/e56060apq8_140x140.jpeg"
+  },
+  {
+    "text":"喉",
+    "read":"[のど]",
+    "meaning":"họng",
+    "example-text":"風邪をひいて喉が痛いです。喉が渇きました。",
+    "example-read":"かぜ を ひいて のど が いたい です。のど が かわきました。",
+    "example-meaning":"Tôi có một cơn cảm lạnh và đau họng. Tôi khát khô họng.",
+    "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi81NTl2ZG5iOW44LmpwZWc=/559vdnb9n8_140x140.jpeg"
+  },
+  {
+    "text":"身長",
+    "read":"[しんちょう]",
+    "meaning":"chiều cao",
+    "example-text":"身長はどれくらいありますか。",
+    "example-read":"しんちょう は どれ くらい あります か。",
+    "example-meaning":"Bạn cao khoảng bao nhiêu?",
+    "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi8wNTIyYjFmdWJzLmpwZWc=/0522b1fubs_140x140.jpeg"
+  },
+  {
+    "text":"何で",
+    "read":"[なんで]",
+    "meaning":"tại sao,",
+    "example-text":"彼女は何で来ないんだろう。",
+    "example-read":"かのじょ は なんで こない ん だろう。",
+    "example-meaning":"Tôi tự hỏi tại sao cô ấy không đến.",
+    "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi80NDBiZXY0cm40LmpwZWc=/440bev4rn4_140x140.jpeg"
+  },
+  {
+    "text":"味噌",
+    "read":"[みそ]",
+    "meaning":"nước tương",
+    "example-text":"きゅうりに味噌をつけて食べたんだ。",
+    "example-read":"きゅうり に みそ を つけて たべた ん だ。",
+    "example-meaning":"Tôi cho nước tương vào dưa chuột và ăn nó.",
+    "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9iM2JnOHI5NDMwLmpwZWc=/b3bg8r9430_140x140.jpeg"
+  },
+  {
+    "text":"気の毒",
+    "read":"[きのどく]",
+    "meaning":"đáng thương",
+    "example-text":"彼らは気の毒な生活をしている。",
+    "example-read":"かれら は きのどくな せいかつ を して いる。",
+    "example-meaning":"Họ có một cuộc sống đáng thương.",
+    "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9kMmVnMWM5YXVvLmpwZWc=/d2eg1c9auo_140x140.jpeg"
+  },
+  {
+    "text":"そっと",
+    "read":"",
+    "meaning":"nhẹ nhàng",
+    "example-text":"母親は娘の髪をそっとなでたの。",
+    "example-read":"ははおや は むすめ の かみ を そっと なでた の。",
+    "example-meaning":"Người mẹ nhẹ nhàng vuốt tóc của con gái mình.",
+    "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi8wNDZ1NHA3ZmFjLmpwZWc=/046u4p7fac_140x140.jpeg"
+  },
+  {
+    "text":"こっそり",
+    "read":"",
+    "meaning":"bí mật",
+    "example-text":"彼女はこっそりダイエットを始めたの。",
+    "example-read":"かのじょ は こっそり ダイエット を はじめた の。",
+    "example-meaning":"Cô bắt đầu bí mật ăn kiêng.",
+    "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi81M2JzNmZhajAwLmpwZWc=/53bs6faj00_140x140.jpeg"
+  },
+  {
+    "text":"うっかり",
+    "read":"",
+    "meaning":"vô tình",
+    "example-text":"大事なメールをうっかり消してしまった。",
+    "example-read":"だいじな メール を うっかり けして しまった。",
+    "example-meaning":"Tôi vô tình xóa một email quan trọng.",
+    "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9lMjZnM2Fja3Y4LmpwZWc=/e26g3ackv8_140x140.jpeg"
+  },
+  {
+    "text":"わざと",
+    "read":"",
+    "meaning":"cố tình",
+    "example-text":"彼はわざと負けたように見えたな。",
+    "example-read":"かれ は わざと まけた ように みえた な。",
+    "example-meaning":"Anh ta có vẻ cố tình thua.",
+    "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9jMzdqM2gwbjBjLmpwZWc=/c37j3h0n0c_140x140.jpeg"
+  },
+  {
+    "text":"がっかり",
+    "read":"",
+    "meaning":"thất vọng",
+    "example-text":"成績が落ちてがっかりした。",
+    "example-read":"せいせき が おちて がっかり した。",
+    "example-meaning":"Tôi đã thất vọng vì thành tích của tôi giảm.",
+    "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi8zNDF2ZDNkcmNrLmpwZWc=/341vd3drck_140x140.jpeg"
+  },
+  {
+    "text":"ぼんやり",
+    "read":"",
+    "meaning":"chằm chằm",
+    "example-text":"彼は遠くをぼんやり見ていたの。",
+    "example-read":"かれ は とおく を ぼんやり みて いた の。",
+    "example-meaning":"Ông nhìn chằm chằm ra xa.",
+    "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9kNWMyYm40bzkwLmpwZWc=/d5c2bn4o90_140x140.jpeg"
+  },
+  {
+    "text":"酢",
+    "read":"[す]",
+    "meaning":"giấm",
+    "example-text":"お酢を入れすぎて酸っぱい。",
+    "example-read":"おす を いれ すぎて すっぱい。",
+    "example-meaning":"Nó chua vì tôi cho giấm quá nhiều.",
+    "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi8yNTY4ZW8wMWdvLmpwZWc=/2568eo01go_140x140.jpeg"
+  },
+  {
+    "text":"羨ましい",
+    "read":"[うらやましい]",
+    "meaning":"ghen tị",
+    "example-text":"彼の才能は羨ましいほどだね。",
+    "example-read":"かれ の さいのう は うらやましい ほど だ ね。",
+    "example-meaning":"Tôi gần như ghen tị tài năng của anh ấy.",
+    "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi82NTlzZTc3dHM0LmpwZWc=/659se77ts4_140x140.jpeg"
+  },
+  {
+    "text":"捕まえる",
+    "read":"[つかまえる]",
+    "meaning":"bắt giữ",
+    "example-text":"蝶蝶を捕まえたよ。蛇がカエルを捕まえたの。",
+    "example-read":"ちょうちょう を つかまえた よ。へび が カエル を つかまえた の。",
+    "example-meaning":"Tôi bắt gặp một con bướm. Con rắn bắt con ếch.",
+    "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi82NWZvNzZiYW00LmpwZWc=/65fo76bam4_140x140.jpeg"
+  },
+  {
+    "text":"ちっとも",
+    "read":"",
+    "meaning":"không chút nào",
+    "example-text":"彼女が結婚したなんて、ちっとも知らなかった。",
+    "example-read":"かのじょ が けっこん した なんて、ちっとも しらなかった。",
+    "example-meaning":"Tôi không biết rằng cô ấy đã kết hôn.",
+    "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9mNTgyYzRkY29rLmpwZWc=/f582c4dcok_140x140.jpeg"
+  },
+  {
+    "text":"親指",
+    "read":"[おやゆび]",
+    "meaning":"ngón tay cái",
+    "example-text":"親指を怪我しました。",
+    "example-read":"おやゆび を けが しました。",
+    "example-meaning":"Tôi bị thương ngón tay cái.",
+    "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9jNTRzOGdiZ2Q0LmpwZWc=/c54s8gbgd4_140x140.jpeg"
+  },
+  {
+    "text":"通り過ぎる",
+    "read":"[とおりすぎる]",
+    "meaning":"vượt qua",
+    "example-text":"うっかり目的地を通り過ぎた。",
+    "example-read":"うっかり もくてき ち を とおりすぎた。",
+    "example-meaning":"Tôi vô tình đi quá điểm đến của tôi.",
+    "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9mNDlqMzU5YnA0LmpwZWc=/f49j359bp4_140x140.jpeg"
+  },
+  {
+    "text":"屋上",
+    "read":"[おくじょう]",
+    "meaning":"sân thượng",
+    "example-text":"屋上から富士山が見えました。屋上にアンテナが立っていますね。",
+    "example-read":"おくじょう から ふじさん が みえました。おくじょう に アンテナ が たって います ね。",
+    "example-meaning":"Tôi đã có thể nhìn thấy núi Phú Sĩ từ trên sân thượng. Ăng ten ở trên sân thượng.",
+    "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9iNTZ0MTk4ZjBvLmpwZWc=/b56t198f0o_140x140.jpeg"
+  },
+  {
+    "text":"蓋",
+    "read":"[ふた]",
+    "meaning":"nắp đậy",
+    "example-text":"箱に蓋をしたよ。",
+    "example-read":"はこ に ふた を した よ。",
+    "example-meaning":"Tôi đóng nắp hộp.",
+    "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9hM2FuYnIxN2M4LmpwZWc=/a3anbr17c8_140x140.jpeg"
+  },
+  {
+    "text":"いつの間にか",
+    "read":"[いつのまにか]",
+    "meaning":"lúc nào không biết",
+    "example-text":"いつの間にか夜が明けていたね。",
+    "example-read":"いつ の ま に か  よ が あけて いた ね。",
+    "example-meaning":"Trời sáng lúc nào không biết.",
+    "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi81NTZpNGgzZWNnLmpwZWc=/556i4h3ecg_140x140.jpeg"
+  },
+  {
+    "text":"象",
+    "read":"[ぞう]",
+    "meaning":"voi",
+    "example-text":"象に乗ってみたいです。",
+    "example-read":"ぞう に のって みたい です。",
+    "example-meaning":"Tôi muốn cưỡi một con voi.",
+    "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi80NTIwZnMxdDZzLmpwZWc=/4520fs1t6s_140x140.jpeg"
+  },
+  {
+    "text":"嫌がる",
+    "read":"[いやがる]",
+    "meaning":"không thích",
+    "example-text":"彼はタバコの煙を嫌がるの。",
+    "example-read":"かれ は タバコ の けむり を いやがる の。",
+    "example-meaning":"Ông không thích khói thuốc lá.",
+    "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi8xMmFlZmI5bjBjLmpwZWc=/12aefb9n0c_140x140.jpeg"
+  },
+  {
+    "text":"わがまま",
+    "read":"",
+    "meaning":"ích kỷ",
+    "example-text":"子供のわがままを叱ったの。",
+    "example-read":"こども の わがまま を しかった の。",
+    "example-meaning":"Tôi mắng đứa trẻ vì thói ích kỷ.",
+    "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9jNWUzMnExaTRvLmpwZWc=/c5e32q1i4o_140x140.jpeg"
+  },
+  {
+    "text":"徹夜",
+    "read":"[てつや]",
+    "meaning":"trắng đêm",
+    "example-text":"ゆうべは徹夜しました。",
+    "example-read":"ゆうべ は てつや しました。",
+    "example-meaning":"Tôi thức trắng đêm qua.",
+    "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi82NTF2MXRkNHRzLmpwZWc=/651v1td4ts_140x140.jpeg"
+  },
+  {
+    "text":"まあまあ",
+    "read":"",
+    "meaning":"ổn",
+    "example-text":"まあまあ、落ち着いてください。",
+    "example-read":"まあ まあ、おちついて ください。",
+    "example-meaning":"Ổn rồi, hãy bình tĩnh lại.",
+    "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy91c2Vycy9TbWFydC5mbS9jNWExOWhidTBzLmpwZWc=/c5a19hbu0s_140x140.jpeg"
+  },
+  {
+    "text":"ふざける",
+    "read":"",
+    "meaning":"đùa cợt",
+    "example-text":"ふざけるのは止めて。",
+    "example-read":"ふざける の は やめて。",
+    "example-meaning":"Đừng có đùa.",
+    "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy91c2Vycy9TbWFydC5mbS8wNTljNWsyYTI0LmpwZWc=/059c5k2a24_140x140.jpeg"
+  },
+  {
+    "text":"一度に",
+    "read":"[いちどに]",
+    "meaning":"một lúc",
+    "example-text":"皆の顔と名前を一度には覚えられません。",
+    "example-read":"みんな の かお と なまえ を いちど に は おぼえられません。",
+    "example-meaning":"Tôi không thể nhớ khuôn mặt của mọi người và tên cùng một lúc.",
+    "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi84MmRuNzRlczZjLmpwZWc=/82dn74es6c_140x140.jpeg"
+  },
+  {
+    "text":"頷く",
+    "read":"[うなずく]",
+    "meaning":"gật",
+    "example-text":"彼女は頷いて同意を示したの。",
+    "example-read":"かのじょ は うなずいて どうい を しめした の。",
+    "example-meaning":"Cô đã cho thấy sự đồng ý với một cái gật.",
+    "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi8xMWNjNTE4bm9zLmpwZWc=/11cc518nos_140x140.jpeg"
+  },
+  {
+    "text":"改札",
+    "read":"[かいさつ]",
+    "meaning":"cổng vé",
+    "example-text":"改札で3時に会おう。",
+    "example-read":"かいさつ で 3 じ に あおう。",
+    "example-meaning":"Hãy gặp tại cửa vé lúc 3 giờ.",
+    "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi84NTVqMGRkbDU4LmpwZWc=/855j0ddl58_140x140.jpeg"
+  },
+  {
+    "text":"手伝い",
+    "read":"[てつだい]",
+    "meaning":"giúp đỡ",
+    "example-text":"会議の準備に手伝いが必要です。",
+    "example-read":"かいぎ の じゅんび に てつだい が ひつよう です。",
+    "example-meaning":"Chúng tôi cần giúp đỡ để chuẩn bị cho cuộc họp.",
+    "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9kNTNwYW4yaTA0LmpwZWc=/d53pan2i04_140x140.jpeg"
+  },
+  {
+    "text":"とっくに",
+    "read":"",
+    "meaning":"lâu rồi",
+    "example-text":"彼ならとっくに帰りましたよ。",
+    "example-read":"かれ なら とっく に かえりました よ。",
+    "example-meaning":"Anh ta đã về nhà lâu rồi.",
+    "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9lNGRyN3FmbXNzLmpwZWc=/e4dr7qfmss_140x140.jpeg"
+  },
+  {
+    "text":"洗剤",
+    "read":"[せんざい]",
+    "meaning":"chất tẩy rửa",
+    "example-text":"床に洗剤をこぼしてしまいました。",
+    "example-read":"ゆか に せんざい を こぼして しまいました。",
+    "example-meaning":"Tôi làm đổ chất tẩy rửa trên sàn nhà.",
+    "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9kNTI3MGs2aW4wLmpwZWc=/d5270k6in0_140x140.jpeg"
+  },
+  {
+    "text":"手首",
+    "read":"[てくび]",
+    "meaning":"cổ tay",
+    "example-text":"転んで手首を痛めました。",
+    "example-read":"ころんで てくび を いためました。",
+    "example-meaning":"Tôi ngã xuống và làm bị thương cổ tay.",
+    "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9jNGM3NjAxM2prLmpwZWc=/c4c76013jk_140x140.jpeg"
+  },
+  {
+    "text":"日帰り",
+    "read":"[ひがえり]",
+    "meaning":"chuyến đi trong ngày",
+    "example-text":"私たちは日帰りで京都に行きました。",
+    "example-read":"わたし たち は ひがえり で きょうと に いきました。",
+    "example-meaning":"Chúng tôi đã đi đến Kyoto trong một chuyến đi trong ngày.",
+    "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9iM2FxNHU5cnRjLmpwZWc=/b3aq4u9rtc_140x140.jpeg"
+  },
+  {
+    "text":"取り消す",
+    "read":"[とりけす]",
+    "meaning":"hủy bỏ",
+    "example-text":"ホテルの予約を取り消したよ。",
+    "example-read":"ホテル の よやく を とりけした よ。",
+    "example-meaning":"Tôi đã hủy đặt phòng khách sạn.",
+    "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi85M2Y2MGM3c3JnLmpwZWc=/93f60c7srg_140x140.jpeg"
+  },
+  {
+    "text":"あきれる",
+    "read":"",
+    "meaning":"ngạc nhiên với",
+    "example-text":"彼の頑固さにはあきれました。",
+    "example-read":"かれ の がんこさ に は あきれました。",
+    "example-meaning":"Tôi đã ngạc nhiên trước sự ngoan cố của anh ấy.",
+    "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi83NTZrMnJkdDNjLmpwZWc=/756k2rdt3c_140x140.jpeg"
+  },
+  {
+    "text":"月末",
+    "read":"[げつまつ]",
+    "meaning":"cuối tháng",
+    "example-text":"月末までに申込書を送ってください。",
+    "example-read":"げつまつ まで に もうしこみ しょ を おくって ください。",
+    "example-meaning":"Xin vui lòng gửi đăng ký vào cuối tháng.",
+    "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi8yMmM4M2IxZzlzLmpwZWc=/22c83b1g9s_140x140.jpeg"
+  },
+  {
+    "text":"咳",
+    "read":"[せき]",
+    "meaning":"cơn ho",
+    "example-text":"咳が止まらないので病院に行ってきたの。",
+    "example-read":"せき が とまらない ので びょういん に いって きた の。",
+    "example-meaning":"Tôi đã đi đến bệnh viện vì cơn ho của tôi đã không dừng lại.",
+    "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi82NWZqY3MxZGQ0LmpwZWc=/65fjcs1dd4_140x140.jpeg"
+  },
+  {
+    "text":"あいにく",
+    "read":"",
+    "meaning":"không may",
+    "example-text":"途中であいにく雨が降り出したの。",
+    "example-read":"とちゅう で あいにく あめ が ふり だした の。",
+    "example-meaning":"Thật không may, trời bắt đầu mưa trên đường.",
+    "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi81NTRnYTI4ZTQ0LmpwZWc=/554ga28e44_140x140.jpeg"
+  },
+  {
+    "text":"近寄る",
+    "read":"[ちかよる]",
+    "meaning":"tiếp cận",
+    "example-text":"彼に近寄らないで。",
+    "example-read":"かれ に ちかよらない で。",
+    "example-meaning":"Đừng tiếp cận anh ta!",
+    "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi80NThzM2U2YzdzLmpwZWc=/458s3e6c7s_140x140.jpeg"
+  },
+  {
+    "text":"うろうろ",
+    "read":"",
+    "meaning":"quanh quẩn",
+    "example-text":"その男はロビーをしばらくうろうろしていたよ。",
+    "example-read":"その おとこ は ロビー を しばらく うろうろ して いた よ。",
+    "example-meaning":"Người đàn ông đã lang thang ở tiền sảnh trong một lúc, không thực sự biết phải làm gì.",
+    "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy91c2Vycy9TbWFydC5mbS83NTJhY3YyN2FvLmpwZWc=/752acv27ao_140x140.jpeg"
+  },
+  {
+    "text":"重たい",
+    "read":"[おもたい]",
+    "meaning":"nặng",
+    "example-text":"この鞄は重たいです。",
+    "example-read":"この かばん は おもたい です。",
+    "example-meaning":"Túi này nặng với tôi.",
+    "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9mNTBtZG00cGZjLmpwZWc=/f50mdm4pfc_140x140.jpeg"
+  },
+  {
+    "text":"かじる",
+    "read":"",
+    "meaning":"gặm",
+    "example-text":"弟は美味しそうにりんごをかじっていたよ。",
+    "example-read":"おとうと は おいしそう に りんご を かじって いた よ。",
+    "example-meaning":"Em trai của tôi gặm một quả táo.",
+    "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi8wM2JvNjU2NGMwLmpwZWc=/03bo6564c0_140x140.jpeg"
+  },
+  {
+    "text":"長引く",
+    "read":"[ながびく]",
+    "meaning":"kéo dài",
+    "example-text":"会議が長引いているようです。",
+    "example-read":"かいぎ が ながびいて いる よう です。",
+    "example-meaning":"Cuộc họp có vẻ là kéo dài.",
+    "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9hNWJrOTFmdjlrLmpwZWc=/a5bk91fv9k_140x140.jpeg"
+  },
+  {
+    "text":"せっせと",
+    "read":"",
+    "meaning":"siêng năng",
+    "example-text":"彼は朝から晩までせっせと働いたの。",
+    "example-read":"かれ は あさ から ばん まで せっせと はたらいた の。",
+    "example-meaning":"Ông ấy đã làm việc chăm chỉ từ sáng đến tối.",
+    "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi80NWY4ZHI1bWs4LmpwZWc=/45f8dr5mk8_140x140.jpeg"
+  },
+  {
+    "text":"横切る",
+    "read":"[よこぎる]",
+    "meaning":"cắt ngang qua",
+    "example-text":"目の前を猫が横切ったんだ。",
+    "example-read":"め の まえ を ねこ が よこぎった ん だ。",
+    "example-meaning":"Một con mèo cắt ngang trước mặt tôi.",
+    "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi8zNTcwMXI1bWc0LmpwZWc=/35701r5mg4_140x140.jpeg"
+  },
+  {
+    "text":"取り替える",
+    "read":"[とりかえる]",
+    "meaning":"thay đổi",
+    "example-text":"シーツを取り替えました。",
+    "example-read":"シーツ を とりかえました。",
+    "example-meaning":"Tôi đã thay đổi véc.",
+    "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9lM2JiZTRhb2NnLmpwZWc=/e3bbe4aocg_140x140.jpeg"
+  },
+  {
+    "text":"からかう",
+    "read":"",
+    "meaning":"trêu chọc",
+    "example-text":"彼は時々妹をからかいます。",
+    "example-read":"かれ は ときどき いもうと を からかいます。",
+    "example-meaning":"Anh ấy thi thoảng trêu chọc em gái mình.",
+    "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9hMzYwMW1lc3VnLmpwZWc=/a3601mesug_140x140.jpeg"
+  },
+  {
+    "text":"好き嫌い",
+    "read":"[すききらい]",
+    "meaning":"thích và ghét",
+    "example-text":"食べ物の好き嫌いは特にありません。",
+    "example-read":"たべもの の すき きらい は とくに ありません。",
+    "example-meaning":"Tôi không có sự yêu ghét với thực phẩm.",
+    "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi85NTAwODY5cG80LmpwZWc=/9500869po4_140x140.jpeg"
+  },
+  {
+    "text":"蒸し暑い",
+    "read":"[むしあつい]",
+    "meaning":"nóng ẩm",
+    "example-text":"今日は蒸し暑いね。",
+    "example-read":"きょう は むしあつい ね。",
+    "example-meaning":"Trời nóng ẩm hôm nay.",
+    "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9hMzB0NXNibGRnLmpwZWc=/a30t5sbldg_140x140.jpeg"
+  },
+  {
+    "text":"支度",
+    "read":"[したく]",
+    "meaning":"sẵn sàng",
+    "example-text":"支度ができたら出かけましょう。",
+    "example-read":"したく が できたら でかけましょう。",
+    "example-meaning":"Hãy ra ngoài khi chúng ta đã sẵn sàng.",
+    "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9kNTAwZHEyb2RrLmpwZWc=/d500dq2odk_140x140.jpeg"
+  },
+  {
+    "text":"薄暗い",
+    "read":"[うすぐらい]",
+    "meaning":"âm u",
+    "example-text":"外はもう薄暗くなりましたよ。",
+    "example-read":"そと は もう うすぐらく なりました よ。",
+    "example-meaning":"Trời âm u bên ngoài.",
+    "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9iM2JoZmc3aGdvLmpwZWc=/b3bhfg7hgo_140x140.jpeg"
+  },
+  {
+    "text":"着替え",
+    "read":"[きがえ]",
+    "meaning":"thay quần áo",
+    "example-text":"着替えを旅行カバンに詰めたよ。",
+    "example-read":"きがえ を りょこう カバン に つめた よ。",
+    "example-meaning":"Tôi đóng gói quần áo thay trong túi du lịch của tôi.",
+    "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi8xNWVhM2k3dnZrLmpwZWc=/15ea3i7vvk_140x140.jpeg"
+  },
+  {
+    "text":"ワンピース",
+    "read":"",
+    "meaning":"váy đầm",
+    "example-text":"彼女は白いワンピースを着ていたよ。",
+    "example-read":"かのじょ は しろい ワンピース を きて いた よ。",
+    "example-meaning":"Cô mặc một chiếc váy đầm trắng.",
+    "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi82MzJoMXQ0anIwLmpwZWc=/632h1t4jr0_140x140.jpeg"
+  },
+  {
+    "text":"生年月日",
+    "read":"[せいねんがっぴ]",
+    "meaning":"ngày tháng năm sinh",
+    "example-text":"生年月日を教えて。",
+    "example-read":"せいねんがっぴ を おしえて。",
+    "example-meaning":"Xin vui lòng cho tôi ngày tháng năm sinh của bạn.",
+    "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy91c2Vycy9TbWFydC5mbS80NGN1MzAzNWxrLmpwZWc=/44cu3035lk_140x140.jpeg"
+  },
+  {
+    "text":"虫歯",
+    "read":"[むしば]",
+    "meaning":"răng sâu",
+    "example-text":"虫歯が痛い。",
+    "example-read":"むしば が いたい。",
+    "example-meaning":"Răng sâu của tôi đau.",
+    "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi83MmI1OGw0djM4LmpwZWc=/72b58l4v38_140x140.jpeg"
+  },
+  {
+    "text":"留守番",
+    "read":"[るすばん]",
+    "meaning":"trông nhà",
+    "example-text":"私は留守番の者です。",
+    "example-read":"わたし は るすばん の もの です。",
+    "example-meaning":"Tôi đang trông nhà.",
+    "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi81NGZ2NjUyYTRzLmpwZWc=/54fv652a4s_140x140.jpeg"
+  },
+  {
+    "text":"張り切る",
+    "read":"[はりきる]",
+    "meaning":"hăng hái",
+    "example-text":"母は張り切ってお弁当を用意したの。",
+    "example-read":"はは は はりきって おべんとう を ようい した の。",
+    "example-meaning":"Mẹ tôi hăng hái làm cơm hộp.",
+    "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9kNTAwNmFhNWRvLmpwZWc=/d5006aa5do_140x140.jpeg"
+  },
+  {
+    "text":"意地悪",
+    "read":"[いじわる]",
+    "meaning":"xấu tính",
+    "example-text":"彼は時々意地悪な質問をするぜ。",
+    "example-read":"かれ は ときどき いじわるな しつもん を する ぜ。",
+    "example-meaning":"Anh ấy đôi khi hỏi câu hỏi xấu.",
+    "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9lNWE3NjVibTVrLmpwZWc=/e5a765bm5k_140x140.jpeg"
+  },
+  {
+    "text":"生意気",
+    "read":"[なまいき]",
+    "meaning":"kiêu căng",
+    "example-text":"あの子は生意気だと思います。",
+    "example-read":"あの こ は なまいき だ と おもいます。",
+    "example-meaning":"Tôi nghĩ đứa trẻ đó khá kiêu căng.",
+    "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9lNGJyN2hmOW00LmpwZWc=/e4br7hf9m4_140x140.jpeg"
+  },
+  {
+    "text":"シーツ",
+    "read":"",
+    "meaning":"ga giường",
+    "example-text":"メイドがシーツを交換してくれたね。シーツを取り替えました。",
+    "example-read":"メイド が シーツ を こうかん して くれた ね。シーツ を とりかえました。",
+    "example-meaning":"Người phục vụ thay ga giường. Tôi đổi tấm ga.",
+    "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9iNTllNTAxbDYwLmpwZWc=/b59e501l60_140x140.jpeg"
+  },
+  {
+    "text":"フライパン",
+    "read":"",
+    "meaning":"chảo",
+    "example-text":"フライパンで目玉焼きを作ったよ。",
+    "example-read":"フライパン で めだまやき を つくった よ。",
+    "example-meaning":"Tôi rán trứng mắt ngọc trong chảo.",
+    "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi8yM2YwNGtkYTlnLmpwZWc=/23f04kda9g_140x140.jpeg"
+  },
+  {
+    "text":"一人一人",
+    "read":"[ひとりひとり]",
+    "meaning":"mỗi người",
+    "example-text":"この学校では一人一人の生徒を大切にしているの。",
+    "example-read":"この がっこう で は ひとり ひとり の せいと を たいせつ に して いる の。",
+    "example-meaning":"Mỗi học sinh đều quan trọng với ngôi trường.",
+    "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi82NWM0MjA2MDk4LmpwZWc=/65c4206098_140x140.jpeg"
+  },
+  {
+    "text":"話し掛ける",
+    "read":"[はなしかける]",
+    "meaning":"bắt chuyện",
+    "example-text":"知らない人が話し掛けてきた。",
+    "example-read":"しらない ひと が はなしかけて きた。",
+    "example-meaning":"Một người là bước tới và bắt chuyện với tôi.",
+    "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi83MmFqNzNkcDA4LmpwZWc=/72aj73dp08_140x140.jpeg"
+  },
+  {
+    "text":"追い掛ける",
+    "read":"[おいかける]",
+    "meaning":"rượt đuổi",
+    "example-text":"パトカーがバイクを追いかけてるぞ。",
+    "example-read":"パトカー が バイク を おいかけてる ぞ。",
+    "example-meaning":"Xe cảnh sát đuổi theo một xe máy.",
+    "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9kNTJjZjIzc3RjLmpwZWc=/d52cf23stc_140x140.jpeg"
+  },
+  {
+    "text":"小指",
+    "read":"[こゆび]",
+    "meaning":"ngón tay út",
+    "example-text":"小指を切ってしまいました。",
+    "example-read":"こゆび を きって しまいました。",
+    "example-meaning":"Tôi cắt vào ngón út.",
+    "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9mNDc2MjY4MjAwLmpwZWc=/f476268200_140x140.jpeg"
+  },
+  {
+    "text":"ぴかぴか",
+    "read":"",
+    "meaning":"long lanh",
+    "example-text":"新車はぴかぴかですね。",
+    "example-read":"しんしゃ は ぴかぴか です ね。",
+    "example-meaning":"Chiếc xe mới sáng long lanh.",
+    "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi85NDB1MWU1NWRvLmpwZWc=/940u1e55do_140x140.jpeg"
+  },
+  {
+    "text":"中指",
+    "read":"[なかゆび]",
+    "meaning":"ngón tay giữa",
+    "example-text":"中指をドアに挟んでしまった。",
+    "example-read":"なかゆび を ドア に はさんで しまった。",
+    "example-meaning":"Tôi bị kẹp ngón giữa vào cánh cửa.",
+    "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi8wNTYxODc5M2ZnLmpwZWc=/05618793fg_140x140.jpeg"
+  },
+  {
+    "text":"まぶた",
+    "read":"",
+    "meaning":"mi mắt",
+    "example-text":"眠くてまぶたが重くなってきた。",
+    "example-read":"ねむくて まぶた が おもく なって きた。",
+    "example-meaning":"Mi mắt tôi sụp xuống vì buồn ngủ.",
+    "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9lNDh1N2E0MW8wLmpwZWc=/e48u7a41o0_140x140.jpeg"
+  },
+  {
+    "text":"面倒臭い",
+    "read":"[めんどうくさい]",
+    "meaning":"rắc rối",
+    "example-text":"この計算は面倒臭いなあ。",
+    "example-read":"この けいさん は めんどうくさい なあ。",
+    "example-meaning":"Tính toán này rắc rối thật.",
+    "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi84NDlxZjFicXU0LmpwZWc=/849qf1bqu4_140x140.jpeg"
+  },
+  {
+    "text":"ゆでる",
+    "read":"",
+    "meaning":"luộc",
+    "example-text":"今、野菜をゆでています。",
+    "example-read":"いま、やさい を ゆでて います。",
+    "example-meaning":"Tôi đang luộc rau.",
+    "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi83NTgyNzZkanM4LmpwZWc=/758276djs8_140x140.jpeg"
+  },
+  {
+    "text":"できるだけ",
+    "read":"",
+    "meaning":"nhất có thể",
+    "example-text":"できるだけ早く来てください。",
+    "example-read":"できる だけ はやく きて ください。",
+    "example-meaning":"Vui lòng tới nhanh nhất có thể.",
+    "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi82MzJxNGQwa3NzLmpwZWc=/632q4d0kss_140x140.jpeg"
+  },
+  {
+    "text":"もしかしたら",
+    "read":"",
+    "meaning":"có lẽ",
+    "example-text":"もしかしたら来年転勤になるかもしれない。",
+    "example-read":"もしか したら らいねん てんきん に なる かも しれない。",
+    "example-meaning":"Có lẽ tôi sẽ chuyển nơi làm việc năm sau.",
+    "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9hNWJ1MDdmY3RzLmpwZWc=/a5bu07fcts_140x140.jpeg"
+  },
+  {
+    "text":"いつまでも",
+    "read":"",
+    "meaning":"mãi mãi",
+    "example-text":"いつまでもあなたを忘れません。",
+    "example-read":"いつまでも  あなた を わすれません。",
+    "example-meaning":"Tôi sẽ không bao giờ quên bạn.",
+    "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy91c2Vycy9TbWFydC5mbS9hNGUzMzEzcTRvLmpwZWc=/a4e3313q4o_140x140.jpeg"
+  },
+  {
+    "text":"まぶしい",
+    "read":"",
+    "meaning":"chói chang",
+    "example-text":"夏の日差しがまぶしかったよ。",
+    "example-read":"なつ の ひざし が まぶしかった よ。",
+    "example-meaning":"Ánh nắng mùa hè chói chang.",
+    "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9iMjhoMzQwNXFrLmpwZWc=/b28h3405qk_140x140.jpeg"
+  },
+  {
+    "text":"おやつ",
+    "read":"",
+    "meaning":"món ăn nhẹ",
+    "example-text":"今日のおやつはプリンだった。",
+    "example-read":"きょう の おやつ は プリン だった。",
+    "example-meaning":"Món nhẹ hôm nay là bánh pudding.",
+    "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi85NjQxNGQxbTVrLmpwZWc=/96414d1m5k_140x140.jpeg"
+  },
+  {
+    "text":"空っぽ",
+    "read":"[からっぽ]",
+    "meaning":"trống rỗng",
+    "example-text":"僕の財布は空っぽだよ。",
+    "example-read":"ぼく の さいふ は からっぽ だ よ。",
+    "example-meaning":"Ví tôi trống rỗng.",
+    "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi8yNDhjN3VmMWxvLmpwZWc=/248c7uf1lo_140x140.jpeg"
+  },
+  {
+    "text":"ぶつぶつ",
+    "read":"",
+    "meaning":"lẩm bẩm",
+    "example-text":"彼はぶつぶつと独り言を言ったんだ。",
+    "example-read":"かれ は ぶつぶつ と ひとりごと を いった ん だ。",
+    "example-meaning":"Anh ta tự lẩm bẩm.",
+    "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi83NGN1OWM3b2FrLmpwZWc=/74cu9c7oak_140x140.jpeg"
+  },
+  {
+    "text":"すっと",
+    "read":"",
+    "meaning":"thỏa mãn",
+    "example-text":"言いたいことを言ったら胸がすっとした。",
+    "example-read":"いいたい こと を いったら むね が すっと した。",
+    "example-meaning":"Tôi thấy hài lòng sau khi nói điều tôi muốn nói.",
+    "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9kNWY4Y2liZWtjLmpwZWc=/d5f8cibekc_140x140.jpeg"
+  },
+  {
+    "text":"図々しい",
+    "read":"[ずうずうしい]",
+    "meaning":"trơ trẽn",
+    "example-text":"何て図々しい人なんだろう。",
+    "example-read":"なんて ずうずうしい ひと なんだろう。",
+    "example-meaning":"Một gã trơ trẽn!",
+    "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi8zNTg4YzEwOG5nLmpwZWc=/3588c108ng_140x140.jpeg"
+  },
+  {
+    "text":"にっこり",
+    "read":"",
+    "meaning":"cười tươi",
+    "example-text":"彼女はにっこりほほえんだ。",
+    "example-read":"かのじょ は にっこり ほほえんだ。",
+    "example-meaning":"Cô ấy cười tươi.",
+    "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi85Yjl1NmRlNmsuanBlZw==/9b9u6de6k_140x140.jpeg"
+  },
+  {
+    "text":"けち",
+    "read":"",
+    "meaning":"keo kiệt",
+    "example-text":"彼は金持ちだけど、けちね。",
+    "example-read":"かれ は かねもち だ けど、けち ね。",
+    "example-meaning":"Anh ta giàu nhưng keo kiệt.",
+    "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi8wMmI0Ymxic2hzLmpwZWc=/02b4blbshs_140x140.jpeg"
+  },
+  {
+    "text":"追いつく",
+    "read":"[おいつく]",
+    "meaning":"đuổi kịp",
+    "example-text":"駅でようやく彼に追いつきました。",
+    "example-read":"えき で ようやく かれ に おいつきました 。",
+    "example-meaning":"Tôi cuối cùng cũng đuổi kịp anh ấy ở ga tàu.",
+    "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi8yNWU1M21lbzA4LmpwZWc=/25e53meo08_140x140.jpeg"
+  },
+  {
+    "text":"くしゃみ",
+    "read":"",
+    "meaning":"hắt hơi",
+    "example-text":"風邪でくしゃみが止まりません。",
+    "example-read":"かぜ で くしゃみ が とまりません。",
+    "example-meaning":"Tôi không ngừng hắt hơi vì cơn cảm lạnh.",
+    "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi82NTM3ZGU0ZmU4LmpwZWc=/6537de4fe8_140x140.jpeg"
+  },
+  {
+    "text":"冷ます",
+    "read":"[さます]",
+    "meaning":"làm lạnh",
+    "example-text":"お茶がとても熱かったので冷ましてから飲んだの。",
+    "example-read":"おちゃ が とても あつかった ので さまして から のんだ の。",
+    "example-meaning":"Vì trà rất nóng, tôi làm lạnh trước khi uống.",
+    "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi85NWYzYzk4Y2tjLmpwZWc=/95f3c98ckc_140x140.jpeg"
+  },
+  {
+    "text":"だらしない",
+    "read":"",
+    "meaning":"luộm thuộm",
+    "example-text":"だらしない格好をしないでください。",
+    "example-read":"だらしない かっこう を しないで ください。",
+    "example-meaning":"Đừng ăn mặc luộm thuộm.",
+    "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi8yNThpZHM1ZmUwLmpwZWc=/258ids5fe0_140x140.jpeg"
+  },
+  {
+    "text":"甘やかす",
+    "read":"[あまやかす]",
+    "meaning":"nuông chiều",
+    "example-text":"子供を甘やかしてはいけないの。",
+    "example-read":"こども を あまやかして は いけない の。",
+    "example-meaning":"Bạn không được chiều chuộng lũ trẻ.",
+    "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi83NWVjMGthMjljLmpwZWc=/75ec0ka29c_140x140.jpeg"
+  },
+  {
+    "text":"いらいら",
+    "read":"",
+    "meaning":"sốt ruột",
+    "example-text":"彼女は朝からいらいらしている。",
+    "example-read":"かのじょ は あさ から いらいら して いる。",
+    "example-meaning":"Cô ấy sốt ruột từ sáng nay.",
+    "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9hNWZ2YXI5OWo0LmpwZWc=/a5fvar99j4_140x140.jpeg"
+  },
+  {
+    "text":"薬指",
+    "read":"[くすりゆび]",
+    "meaning":"ngón áp út",
+    "example-text":"彼女は薬指に指輪をはめています。",
+    "example-read":"かのじょ は くすりゆび に ゆびわ を はめて います。",
+    "example-meaning":"Cô ấy đeo nhẫn trên ngón áp út.",
+    "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi80NTkwNnU0N2drLmpwZWc=/45906u47gk_140x140.jpeg"
+  },
+  {
+    "text":"のろのろ",
+    "read":"",
+    "meaning":"từ từ",
+    "example-text":"車は雪道をのろのろと走ったの。",
+    "example-read":"くるま は ゆきみち を のろのろ と はしった の。",
+    "example-meaning":"Chiếc xe đi chậm trên đường tuyết.",
+    "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9hNWEwMzllbjY0LmpwZWc=/a5a039en64_140x140.jpeg"
+  },
+  {
+    "text":"ポイント",
+    "read":"",
+    "meaning":"điểm chính",
+    "example-text":"話のポイントを書き取った。先生が授業のポイントを黒板に書いた。",
+    "example-read":"はなし の ポイント を かきとった 。せんせい が じゅぎょう の ポイント を こくばん に かいた。",
+    "example-meaning":"Tôi ghi lại những điểm chính đã nêu ra. Giáo viên viết những điểm chính của bài học trên bảng.",
+    "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzQ3MDYzMDQuanBn/4706304_140x140.jpg"
+  },
+  {
+    "text":"工業",
+    "read":"[こうぎょう]",
+    "meaning":"công nghiệp",
+    "example-text":"そこは工業都市だ。",
+    "example-read":"そこ は こうぎょう とし だ。",
+    "example-meaning":"Đó là một thành phố công nghiệp.",
+    "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9mNDl2Y2c3aDNvLmpwZWc=/f49vcg7h3o_140x140.jpeg"
+  },
+  {
+    "text":"構造",
+    "read":"[こうぞう]",
+    "meaning":"cấu trúc",
+    "example-text":"この建物の構造は複雑です。",
+    "example-read":"この たてもの の こうぞう は ふくざつ です。",
+    "example-meaning":"Cấu trúc tòa nhà này phức tạp.",
+    "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi82NTVwN2JmNzM4LmpwZWc=/655p7bf738_140x140.jpeg"
+  },
+  {
+    "text":"さすが",
+    "read":"",
+    "meaning":"như mong đợi",
+    "example-text":"すごいな、さすがだね。",
+    "example-read":"すごい な、さすが だ ね。",
+    "example-meaning":"Bạn thật tuyệt như tôi mong đợi.",
+    "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi83NWU0NGRlc2hnLmpwZWc=/75e44deshg_140x140.jpeg"
+  }
+]

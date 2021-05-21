@@ -1,0 +1,902 @@
+[
+   {
+      "text":"自身",
+      "read":"[じしん]",
+      "meaning":"bản thân",
+      "example-text":"自分自身を疑ってはいけません。",
+      "example-read":"じぶん じしん を うたがって は いけません。",
+      "example-meaning":"Đừng nghi ngờ bản thân.",
+      "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9kMWZkY2NkbmJrLmpwZWc=/d1fdccdnbk_140x140.jpeg"
+   },
+   {
+      "text":"かかる",
+      "read":"",
+      "meaning":"bị bệnh",
+      "example-text":"彼女はインフルエンザにかかっていますね。",
+      "example-read":"かのじょ は インフルエンザ に かかって います ね。",
+      "example-meaning":"Cô ấy bị cúm.",
+      "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi82M2RnODViZXBjLmpwZWc=/63dg85bepc_140x140.jpeg"
+   },
+   {
+      "text":"求める",
+      "read":"[もとめる]",
+      "meaning":"tìm kiếm",
+      "example-text":"子供は親の愛を求めます。",
+      "example-read":"こども は おや の あい を もとめます。",
+      "example-meaning":"Trẻ em tìm kiếm tình yêu của bố mẹ.",
+      "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9kMTltYzg1MmJjLmpwZWc=/d19mc852bc_140x140.jpeg"
+   },
+   {
+      "text":"下さる",
+      "read":"[くださる]",
+      "meaning":"cho",
+      "example-text":"先生が手紙を下さいました。",
+      "example-read":"せんせい が てがみ を くださいました。",
+      "example-meaning":"Giáo viên đã đưa cho tôi một lá thư.",
+      "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi8zMjltMGoyMXRrLmpwZWc=/329m0j21tk_140x140.jpeg"
+   },
+   {
+      "text":"昨日",
+      "read":"[さくじつ]",
+      "meaning":"hôm qua",
+      "example-text":"昨日は雨でしたね。",
+      "example-read":"さくじつ は あめ でした ね。",
+      "example-meaning":"Trời mưa ngày hôm qua.",
+      "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi85NDYyM3I0ZzljLmpwZWc=/94623r4g9c_140x140.jpeg"
+   },
+   {
+      "text":"元",
+      "read":"[もと]",
+      "meaning":"nguồn gốc",
+      "example-text":"あの人は卓球の元選手です。",
+      "example-read":"あの ひと は たっきゅう の もと せんしゅ です。",
+      "example-meaning":"Người đó là một cựu cầu thủ bóng bàn.",
+      "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi82MTFsYmUwOThzLmpwZWc=/611lbe098s_140x140.jpeg"
+   },
+   {
+      "text":"型",
+      "read":"[かた]",
+      "meaning":"mô hình",
+      "example-text":"新しい型のカメラを買いました。",
+      "example-read":"あたらしい かた の カメラ を かいました。",
+      "example-meaning":"Tôi đã mua một máy ảnh mô hình mới.",
+      "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi83NGUwY28wMXMwLmpwZWc=/74e0co01s0_140x140.jpeg"
+   },
+   {
+      "text":"それぞれ",
+      "read":"",
+      "meaning":"mỗi",
+      "example-text":"人はそれぞれ考え方が違います。",
+      "example-read":"ひと は それぞれ かんがえかた が ちがいます。",
+      "example-meaning":"Mỗi người có những ý tưởng khác nhau.",
+      "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi81M2VrNDAwMWEwLmpwZWc=/53ek4001a0_140x140.jpeg"
+   },
+   {
+      "text":"地方",
+      "read":"[ちほう]",
+      "meaning":"địa phương",
+      "example-text":"この地方は漁業が盛んです。",
+      "example-read":"この ちほう は ぎょぎょう が さかん です。",
+      "example-meaning":"Ngư nghiệp đang hưng thịnh trong địa phương.",
+      "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9iMTBqZTM4ODFnLmpwZWc=/b10je3881g_140x140.jpeg"
+   },
+   {
+      "text":"面",
+      "read":"[めん]",
+      "meaning":"bề mặt",
+      "example-text":"彼の意外な面を見た。",
+      "example-read":"かれ の いがいな めん を みた。",
+      "example-meaning":"Tôi thấy một bộ mặt khác của ông ta.",
+      "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi8yNDIzOGU3bDJvLmpwZWc=/24238e7l2o_140x140.jpeg"
+   },
+   {
+      "text":"実は",
+      "read":"[じつは]",
+      "meaning":"thực ra",
+      "example-text":"あれは実は私の勘違いでした。",
+      "example-read":"あれ は じつは わたし の かんちがい でした。",
+      "example-meaning":"Thực ra, đó là sự hiểu lầm của tôi.",
+      "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9kMTRvOGJmMDBnLmpwZWc=/d14o8bf00g_140x140.jpeg"
+   },
+   {
+      "text":"夜",
+      "read":"[よ]",
+      "meaning":"đêm",
+      "example-text":"あと1時間で夜が明けますね。",
+      "example-read":"あと 1 じかん で よ が あけます ね。",
+      "example-meaning":"Bình minh sẽ tới trong 1 giờ nữa.",
+      "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi8yMzJrNTg1ZnNvLmpwZWc=/232k585fso_140x140.jpeg"
+   },
+   {
+      "text":"地",
+      "read":"[ち]",
+      "meaning":"mặt đất",
+      "example-text":"彼はその地で残りの生涯を過ごしたんだ。",
+      "example-read":"かれ は その ち で のこり の しょうがい を すごした ん だ。",
+      "example-meaning":"Ông đã dành phần còn lại của cuộc đời mình ở nơi đó.",
+      "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi8xNDAyYWg0MzNnLmpwZWc=/1402ah433g_140x140.jpeg"
+   },
+   {
+      "text":"議論",
+      "read":"[ぎろん]",
+      "meaning":"thảo luận",
+      "example-text":"父は議論好きです。",
+      "example-read":"ちち は ぎろん ずき です。",
+      "example-meaning":"Cha tôi thích tham gia vào các cuộc thảo luận.",
+      "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi8yMzM5NHAwb2k4LmpwZWc=/23394p0oi8_140x140.jpeg"
+   },
+   {
+      "text":"以前",
+      "read":"[いぜん]",
+      "meaning":"trước đây",
+      "example-text":"以前彼はこの町に住んでいたんだ。",
+      "example-read":"いぜん かれ は この まち に すんで いた ん だ。",
+      "example-meaning":"Ông đã sống ở thị trấn này trước đây.",
+      "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi8xMzQzZGE4MnJvLmpwZWc=/1343da82ro_140x140.jpeg"
+   },
+   {
+      "text":"専門",
+      "read":"[せんもん]",
+      "meaning":"chuyên môn",
+      "example-text":"法律は私の専門です。",
+      "example-read":"ほうりつ は わたし の せんもん です。",
+      "example-meaning":"Chuyên môn của tôi là luật pháp.",
+      "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi8yMzEwM3Y2bGNzLmpwZWc=/23103v6lcs_140x140.jpeg"
+   },
+   {
+      "text":"申し上げる",
+      "read":"[もうしあげる]",
+      "meaning":"nói",
+      "example-text":"結果を申し上げます。",
+      "example-read":"けっか を もうしあげます。",
+      "example-meaning":"Tôi sẽ cho bạn biết kết quả.",
+      "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9hMTZrMG1mdnI0LmpwZWc=/a16k0mfvr4_140x140.jpeg"
+   },
+   {
+      "text":"行動",
+      "read":"[こうどう]",
+      "meaning":"hành động",
+      "example-text":"彼の行動は理解できない。",
+      "example-read":"かれ の こうどう は りかい できない。",
+      "example-meaning":"Tôi không thể hiểu hành vi của anh ấy.",
+      "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9hNDUwNG45MGhvLmpwZWc=/a4504n90ho_140x140.jpeg"
+   },
+   {
+      "text":"率",
+      "read":"[りつ]",
+      "meaning":"tỷ lệ",
+      "example-text":"その手術の成功率は90%だそうです。",
+      "example-read":"その しゅじゅつ の せいこう りつ は 90% だ そうです。",
+      "example-meaning":"Tỷ lệ thành công của ca phẫu thuật được cho là 90%.",
+      "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9mNGUyMXVkM2dnLmpwZWc=/f4e21ud3gg_140x140.jpeg"
+   },
+   {
+      "text":"監督",
+      "read":"[かんとく]",
+      "meaning":"đạo diễn",
+      "example-text":"その監督はアカデミー賞を受賞したよな。",
+      "example-read":"その かんとく は アカデミー しょう を じゅしょう した よ な。",
+      "example-meaning":"Đạo diễn đó đã giành giải Oscar.",
+      "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9jM2FxNmg0dDlzLmpwZWc=/c3aq6h4t9s_140x140.jpeg"
+   },
+   {
+      "text":"意識",
+      "read":"[いしき]",
+      "meaning":"ý thức",
+      "example-text":"彼は意識を失いました。",
+      "example-read":"かれ は いしき を うしないました。",
+      "example-meaning":"Ông ấy bất tỉnh.",
+      "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi8zNGUyNzQ4ZTQ0LmpwZWc=/34e2748e44_140x140.jpeg"
+   },
+   {
+      "text":"認める",
+      "read":"[みとめる]",
+      "meaning":"cho phép",
+      "example-text":"父が彼女との結婚を認めてくれました。",
+      "example-read":"ちち が かのじょ と の けっこん を みとめて くれました。",
+      "example-meaning":"Cha tôi cho tôi cưới cô ấy.",
+      "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi82NGMzNGg0dGdrLmpwZWc=/64c34h4tgk_140x140.jpeg"
+   },
+   {
+      "text":"参考",
+      "read":"[さんこう]",
+      "meaning":"tham khảo",
+      "example-text":"この本を参考にしてください。",
+      "example-read":"この ほん を さんこう に して ください 。",
+      "example-meaning":"Vui lòng tham khảo cuốn sách này.",
+      "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi83MjYyYzU0cGRzLmpwZWc=/7262c54pds_140x140.jpeg"
+   },
+   {
+      "text":"チーム",
+      "read":"",
+      "meaning":"đội",
+      "example-text":"彼はチームの一員です。",
+      "example-read":"かれ は チーム の いちいん です。",
+      "example-meaning":"Anh ấy là thành viên của đội.",
+      "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9hMTZrN3BlM2xvLmpwZWc=/a16k7pe3lo_140x140.jpeg"
+   },
+   {
+      "text":"現実",
+      "read":"[げんじつ]",
+      "meaning":"thực tế",
+      "example-text":"現実は予想より厳しかった。",
+      "example-read":"げんじつ は よそう より きびしかった。",
+      "example-meaning":"Thực tế là khó khăn hơn tôi kỳ vọng.",
+      "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi82MzYzZDJlZTg4LmpwZWc=/6363d2ee88_140x140.jpeg"
+   },
+   {
+      "text":"価値",
+      "read":"[かち]",
+      "meaning":"giá trị",
+      "example-text":"とても価値のある話を聞いたよ。",
+      "example-read":"とても かち の ある はなし を きいた よ。",
+      "example-meaning":"Tôi nghe một câu chuyện rất có giá trị.",
+      "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9lMWVnZnYwM2cwLmpwZWc=/e1egfv03g0_140x140.jpeg"
+   },
+   {
+      "text":"テーマ",
+      "read":"",
+      "meaning":"chủ đề",
+      "example-text":"講演のテーマは何ですか。",
+      "example-read":"こうえん の テーマ は なん です か。",
+      "example-meaning":"Chủ đề của bài giảng là gì?",
+      "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9iMzhpNGFjMm9rLmpwZWc=/b38i4ac2ok_140x140.jpeg"
+   },
+   {
+      "text":"含む",
+      "read":"[ふくむ]",
+      "meaning":"chứa",
+      "example-text":"その食品は有害物質を含んでいるぞ。",
+      "example-read":"その しょくひん は ゆうがい ぶっしつ を ふくんで いる ぞ。",
+      "example-meaning":"Thực phẩm đó có chứa một chất độc.",
+      "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi80MzYwNDY2dmdrLmpwZWc=/4360466vgk_140x140.jpeg"
+   },
+   {
+      "text":"際",
+      "read":"[さい]",
+      "meaning":"cơ hội",
+      "example-text":"この際はっきり言っておきます。",
+      "example-read":"この さい はっきり いって おきます。",
+      "example-meaning":"Tôi muốn nhân cơ hội này để nói thẳng thắn.",
+      "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi84M2ZrN2pmbmhnLmpwZWc=/83fk7jfnhg_140x140.jpeg"
+   },
+   {
+      "text":"全て",
+      "read":"[すべて]",
+      "meaning":"tất cả",
+      "example-text":"彼に全てのことを伝えた。",
+      "example-read":"かれ に すべて の こと を つたえた。",
+      "example-meaning":"Tôi đã nói với anh ta mọi thứ.",
+      "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi8wMzVqYWY4Zm40LmpwZWc=/035jaf8fn4_140x140.jpeg"
+   },
+   {
+      "text":"大臣",
+      "read":"[だいじん]",
+      "meaning":"bộ trưởng",
+      "example-text":"大臣が汚職で逮捕されました。",
+      "example-read":"だいじん が おしょく で たいほ されました。",
+      "example-meaning":"Bộ trưởng đã bị bắt vì tham nhũng.",
+      "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi8wMzBpMHYwaGc4LmpwZWc=/030i0v0hg8_140x140.jpeg"
+   },
+   {
+      "text":"国家",
+      "read":"[こっか]",
+      "meaning":"quốc gia",
+      "example-text":"首相は国家のリーダーだ。",
+      "example-read":"しゅしょう は こっか の リーダー だ。",
+      "example-meaning":"Thủ tướng chính phủ là lãnh đạo của quốc gia.",
+      "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9kM2RoOWszdWhzLmpwZWc=/d3dh9k3uhs_140x140.jpeg"
+   },
+   {
+      "text":"試合",
+      "read":"[しあい]",
+      "meaning":"trận đấu",
+      "example-text":"明日の試合は何時からですか。",
+      "example-read":"あした の しあい は なん じ から です か。",
+      "example-meaning":"Trận đấu ngày mai lúc mấy giờ?",
+      "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9kMTloOXU0bzJnLmpwZWc=/d19h9u4o2g_140x140.jpeg"
+   },
+   {
+      "text":"結局",
+      "read":"[けっきょく]",
+      "meaning":"rốt cục",
+      "example-text":"彼は結局何を言いたかったのだろう。",
+      "example-read":"かれ は けっきょく なに を いいたかった の だろう。",
+      "example-meaning":"Tôi tự hỏi rốt cục anh ấy muốn nói gì.",
+      "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi8yMTZrMHQxaXJrLmpwZWc=/216k0t1irk_140x140.jpeg"
+   },
+   {
+      "text":"消費",
+      "read":"[しょうひ]",
+      "meaning":"tiêu thụ",
+      "example-text":"日本は消費大国と言われています。",
+      "example-read":"にっぽん は しょうひ たいこく と いわれて います。",
+      "example-meaning":"Người ta nói Nhật Bản là một quốc gia có lượng tiêu thụ rất lớn.",
+      "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9hMzZoMmdkZXU4LmpwZWc=/a36h2gdeu8_140x140.jpeg"
+   },
+   {
+      "text":"人生",
+      "read":"[じんせい]",
+      "meaning":"cuộc đời",
+      "example-text":"彼は自分の人生を振り返ったわ。",
+      "example-read":"かれ は じぶん の じんせい を ふりかえった わ。",
+      "example-meaning":"Ông ấy nhìn lại cuộc đời mình.",
+      "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi85NDkzOWgxcjdnLmpwZWc=/94939h1r7g_140x140.jpeg"
+   },
+   {
+      "text":"量",
+      "read":"[りょう]",
+      "meaning":"số lượng",
+      "example-text":"最近、食事の量を減らしています。",
+      "example-read":"さいきん、しょくじ の りょう を へらして います。",
+      "example-meaning":"Gần đây, tôi cắt giảm khẩu phần ăn.",
+      "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9mNGEzM2k0bThnLmpwZWc=/f4a33i4m8g_140x140.jpeg"
+   },
+   {
+      "text":"精神",
+      "read":"[せいしん]",
+      "meaning":"tinh thần",
+      "example-text":"彼女は今、精神が不安定だ。",
+      "example-read":"かのじょ は いま、せいしん が ふあんてい だ。",
+      "example-meaning":"Cô ấy tinh thần không ổn định bây giờ.",
+      "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9kMTRwMDEwMXZvLmpwZWc=/d14p0101vo_140x140.jpeg"
+   },
+   {
+      "text":"レベル",
+      "read":"",
+      "meaning":"cấp độ",
+      "example-text":"自分のレベルに合った授業を選んでください。",
+      "example-read":"じぶん の レベル に あった じゅぎょう を えらんで ください。",
+      "example-meaning":"Vui lòng chọn một cấp độ phù hợp với bạn.",
+      "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi8xNDAwZHVmbHA4LmpwZWc=/1400duflp8_140x140.jpeg"
+   },
+   {
+      "text":"我々",
+      "read":"[われわれ]",
+      "meaning":"chúng tôi",
+      "example-text":"我々の決意は固いです。",
+      "example-read":"われわれ の けつい は かたい です。",
+      "example-meaning":"Quyết định của chúng tôi là chắc chắn.",
+      "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi85MzY5YnI3YWgwLmpwZWc=/9369br7ah0_140x140.jpeg"
+   },
+   {
+      "text":"指導",
+      "read":"[しどう]",
+      "meaning":"hướng dẫn",
+      "example-text":"彼は生徒の指導が上手ね。",
+      "example-read":"かれ は せいと の しどう が じょうず ね。",
+      "example-meaning":"Ông ấy giỏi hướng dẫn các học sinh của mình.",
+      "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9kNDMwN3NjcGxnLmpwZWc=/d4307scplg_140x140.jpeg"
+   },
+   {
+      "text":"明日",
+      "read":"[みょうにち]",
+      "meaning":"ngày mai",
+      "example-text":"明日、会議を開きます。",
+      "example-read":"みょうにち、かいぎ を ひらきます。",
+      "example-meaning":"Ngày mai chúng ta sẽ có một cuộc họp.",
+      "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi8yMjYyZDkwbDZnLmpwZWc=/2262d90l6g_140x140.jpeg"
+   },
+   {
+      "text":"資料",
+      "read":"[しりょう]",
+      "meaning":"tài liệu",
+      "example-text":"図書館で資料を借りてきました。",
+      "example-read":"としょかん で しりょう を かりて きました 。",
+      "example-meaning":"Tôi mượn một số tài liệu từ thư viện.",
+      "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi82NDIwM3VibzQ4LmpwZWc=/64203ubo48_140x140.jpeg"
+   },
+   {
+      "text":"団体",
+      "read":"[だんたい]",
+      "meaning":"nhóm",
+      "example-text":"サッカーは団体競技です。",
+      "example-read":"サッカー は だんたい きょうぎ です。",
+      "example-meaning":"Bóng đá là một môn thể thao tập thể.",
+      "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi84MTdvODY4dHRjLmpwZWc=/817o868ttc_140x140.jpeg"
+   },
+   {
+      "text":"最も",
+      "read":"[もっとも]",
+      "meaning":"tốt nhất",
+      "example-text":"彼は世界で最も速い男です。",
+      "example-read":"かれ は せかい で もっとも はやい おとこ です 。",
+      "example-meaning":"Anh ấy là người đàn ông nhanh nhất thế giới.",
+      "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi8wM2EzMDA0MWwwLmpwZWc=/03a30041l0_140x140.jpeg"
+   },
+   {
+      "text":"完全",
+      "read":"[かんぜん]",
+      "meaning":"hoàn toàn",
+      "example-text":"この古い寺院は今でも完全な形を保っているんだ。",
+      "example-read":"この ふるい じいん は いま で も かんぜんな かたち を たもって いる ん だ。",
+      "example-meaning":"Ngôi chùa Phật giáo cổ xưa này vẫn duy trì hình dáng hoàn chỉnh của nó.",
+      "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi8wMTBvZWZmdWMwLmpwZWc=/010oeffuc0_140x140.jpeg"
+   },
+   {
+      "text":"品",
+      "read":"[しな]",
+      "meaning":"hàng hóa",
+      "example-text":"そちらの品は半額になっています。",
+      "example-read":"そちら の しな は はんがく に なって います。",
+      "example-meaning":"Hàng hóa ở đây bán một nửa giá.",
+      "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi85NGQwY3YzM2VvLmpwZWc=/94d0cv33eo_140x140.jpeg"
+   },
+   {
+      "text":"男性",
+      "read":"[だんせい]",
+      "meaning":"đàn ông",
+      "example-text":"彼は素敵な男性です。",
+      "example-read":"かれ は すてきな だんせい です。",
+      "example-meaning":"Anh ấy là người đàn ông tuyệt vời.",
+      "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi8xNDkwNGRmdHZrLmpwZWc=/14904dftvk_140x140.jpeg"
+   },
+   {
+      "text":"軍",
+      "read":"[ぐん]",
+      "meaning":"quân sự",
+      "example-text":"怪我人は軍の病院に運ばれたよ。",
+      "example-read":"けが にん は ぐん の びょういん に はこばれた よ。",
+      "example-meaning":"Người bị thương được đưa đến bệnh viện quân y.",
+      "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi85NGUzYjNmZGY4LmpwZWc=/94e3b3fdf8_140x140.jpeg"
+   },
+   {
+      "text":"描く",
+      "read":"[えがく]",
+      "meaning":"miêu tả",
+      "example-text":"彼は人物を描くのがうまいな。",
+      "example-read":"かれ は じんぶつ を えがく の が うまい な。",
+      "example-meaning":"Anh ấy giỏi vẽ người.",
+      "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi8xNGIzNWpjOXZvLmpwZWc=/14b35jc9vo_140x140.jpeg"
+   },
+   {
+      "text":"最終",
+      "read":"[さいしゅう]",
+      "meaning":"cuối cùng",
+      "example-text":"東京行きの最終電車は何時ですか。",
+      "example-read":"とうきょう いき の さいしゅう でんしゃ は なん じ です か。",
+      "example-meaning":"Chuyến tàu cuối cùng của Tokyo là mấy giờ?",
+      "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi85NGQzOTE1cmY4LmpwZWc=/94d3915rf8_140x140.jpeg"
+   },
+   {
+      "text":"センター",
+      "read":"",
+      "meaning":"trung tâm",
+      "example-text":"このセンターで工場全体を管理しています。",
+      "example-read":"この センター で こうじょう ぜんたい を かんり して います。",
+      "example-meaning":"Chúng tôi quản lý toàn bộ hoạt động của nhà máy ở trung tâm này.",
+      "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi8zMWJkZTcyMXFzLmpwZWc=/31bde721qs_140x140.jpeg"
+   },
+   {
+      "text":"障害",
+      "read":"[しょうがい]",
+      "meaning":"trở ngại",
+      "example-text":"まずは障害を取り除いてから計画を進めよう。",
+      "example-read":"まず は しょうがい を とりのぞいて から けいかく を すすめよう。",
+      "example-meaning":"Hãy loại bỏ các chướng ngại vật đầu tiên trước khi tiến hành kế hoạch.",
+      "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi85M2JhNHFiZjQ4LmpwZWc=/93ba4qbf48_140x140.jpeg"
+   },
+   {
+      "text":"医療",
+      "read":"[いりょう]",
+      "meaning":"y tế",
+      "example-text":"医療関係の仕事をしています。",
+      "example-read":"いりょう かんけい の しごと を して います。",
+      "example-meaning":"Tôi làm việc trong lĩnh vực y tế.",
+      "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi8zNDIxMDAxbGVvLmpwZWc=/3421001leo_140x140.jpeg"
+   },
+   {
+      "text":"頂く",
+      "read":"[いただく]",
+      "meaning":"nhận",
+      "example-text":"お客様にお菓子を頂いた。",
+      "example-read":"おきゃくさま に おかし を いただいた。",
+      "example-meaning":"Chúng tôi đã nhận được ít bánh kẹo từ khách hàng của chúng tôi.",
+      "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi85M2U5ZXE3ZzlrLmpwZWc=/93e9eq7g9k_140x140.jpeg"
+   },
+   {
+      "text":"金融",
+      "read":"[きんゆう]",
+      "meaning":"tài chính",
+      "example-text":"彼は金融関係の会社で働いています。",
+      "example-read":"かれ は きんゆう かんけい の かいしゃ で はたらいて います。",
+      "example-meaning":"Ông làm việc tại một công ty tài chính.",
+      "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi81NDMxZjY3YzljLmpwZWc=/5431f67c9c_140x140.jpeg"
+   },
+   {
+      "text":"学ぶ",
+      "read":"[まなぶ]",
+      "meaning":"học",
+      "example-text":"私は哲学を学んでいます。",
+      "example-read":"わたし は てつがく を まなんで います。",
+      "example-meaning":"Tôi học triết học.",
+      "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi81MzNoZTE0YWdjLmpwZWc=/533he14agc_140x140.jpeg"
+   },
+   {
+      "text":"成長",
+      "read":"[せいちょう]",
+      "meaning":"tăng trưởng",
+      "example-text":"庭の木、大きく成長したわね。",
+      "example-read":"にわ の き、おおきく せいちょう した わ ね。",
+      "example-meaning":"Cây trong vườn đã phát triển to.",
+      "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi82NGQyYXMwbGZjLmpwZWc=/64d2as0lfc_140x140.jpeg"
+   },
+   {
+      "text":"登場",
+      "read":"[とうじょう]",
+      "meaning":"xuất hiện",
+      "example-text":"彼女の登場で会場は盛り上がったね。",
+      "example-read":"かのじょ の とうじょう で かいじょう は もりあがった ね。",
+      "example-meaning":"Khán giả đã vui mừng khi cô ấy xuất hiện.",
+      "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi8wNGMzOTI5YTQwLmpwZWc=/04c3929a40_140x140.jpeg"
+   },
+   {
+      "text":"知識",
+      "read":"[ちしき]",
+      "meaning":"kiến thức",
+      "example-text":"私は旅行から多くの知識を得た。",
+      "example-read":"わたし は りょこう から おおく の ちしき を えた。",
+      "example-meaning":"Tôi đã thu được nhiều kiến thức từ du lịch.",
+      "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi82MWFpY2dkY3A0LmpwZWc=/61aicgdcp4_140x140.jpeg"
+   },
+   {
+      "text":"友人",
+      "read":"[ゆうじん]",
+      "meaning":"bạn bè",
+      "example-text":"彼は高校時代からの友人です。",
+      "example-read":"かれ は こうこう じだい から の ゆうじん です。",
+      "example-meaning":"Ông ấy là bạn cũ của tôi từ trường trung học.",
+      "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi8zMTdwZDE4MWdvLmpwZWc=/317pd181go_140x140.jpeg"
+   },
+   {
+      "text":"イメージ",
+      "read":"",
+      "meaning":"hình ảnh",
+      "example-text":"彼には清潔なイメージがあるね。",
+      "example-read":"かれ に は せいけつな イメージ が ある ね。",
+      "example-meaning":"Anh ấy có một hình ảnh trong sạch.",
+      "image":""
+   },
+   {
+      "text":"トップ",
+      "read":"",
+      "meaning":"tốt nhất",
+      "example-text":"彼はトップの成績で合格しました。",
+      "example-read":"かれ は トップ の せいせき で ごうかく しました。",
+      "example-meaning":"Anh ấy đỗ thủ khoa.",
+      "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi81MzhrZHBlY3VnLmpwZWc=/538kdpecug_140x140.jpeg"
+   },
+   {
+      "text":"税",
+      "read":"[ぜい]",
+      "meaning":"thuế",
+      "example-text":"これ以上税が上がると生活できないね。",
+      "example-read":"これ いじょう ぜい が あがる と せいかつ できない ね。",
+      "example-meaning":"Chúng tôi sẽ không thể sống với thuế tăng thêm nữa.",
+      "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi84NDAxZDUxZzhnLmpwZWc=/8401d51g8g_140x140.jpeg"
+   },
+   {
+      "text":"変更",
+      "read":"[へんこう]",
+      "meaning":"thay đổi",
+      "example-text":"予定が変更になりました。",
+      "example-read":"よてい が へんこう に なりました。",
+      "example-meaning":"Lịch trình đã được thay đổi.",
+      "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9hMzRnMWxkZGE4LmpwZWc=/a34g1ldda8_140x140.jpeg"
+   },
+   {
+      "text":"限り",
+      "read":"[かぎり]",
+      "meaning":"giới hạn",
+      "example-text":"限りある資源を大切にしよう。",
+      "example-read":"かぎり ある しげん を たいせつ に しよう。",
+      "example-meaning":"Chúng ta hãy trân trọng các nguồn lực hạn chế.",
+      "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi8zM2ZpMnJjb3U0LmpwZWc=/33fi2rcou4_140x140.jpeg"
+   },
+   {
+      "text":"式",
+      "read":"[しき]",
+      "meaning":"nghi thức",
+      "example-text":"彼らは教会で式を挙げました。",
+      "example-read":"かれら は きょうかい で しき を あげました。",
+      "example-meaning":"Họ đã có một lễ cưới trong nhà thờ.",
+      "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi8yNDczNW00dnIwLmpwZWc=/24735m4vr0_140x140.jpeg"
+   },
+   {
+      "text":"展開",
+      "read":"[てんかい]",
+      "meaning":"triển khai",
+      "example-text":"話の展開に付いていけない。",
+      "example-read":"はなし の てんかい に ついて いけない。",
+      "example-meaning":"Tôi không thể theo kịp cốt truyện.",
+      "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi81MzRoZjBhaTFzLmpwZWc=/534hf0ai1s_140x140.jpeg"
+   },
+   {
+      "text":"興味",
+      "read":"[きょうみ]",
+      "meaning":"mối quan tâm",
+      "example-text":"彼女は心理学に興味があるよ。",
+      "example-read":"かのじょ は しんり がく に きょうみ が ある よ。",
+      "example-meaning":"Cô ấy quan tâm đến tâm lý học.",
+      "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9jM2NsMmhjNnFnLmpwZWc=/c3cl2hc6qg_140x140.jpeg"
+   },
+   {
+      "text":"含める",
+      "read":"[ふくめる]",
+      "meaning":"bao gồm",
+      "example-text":"私を含めて10人が参加しました。",
+      "example-read":"わたし を ふくめて 10 にん が さんか しました。",
+      "example-meaning":"Mười người tham gia kể cả tôi.",
+      "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9mM2IwMG81aXE4LmpwZWc=/f3b00o5iq8_140x140.jpeg"
+   },
+   {
+      "text":"編集",
+      "read":"[へんしゅう]",
+      "meaning":"biên tập",
+      "example-text":"私は雑誌の編集の仕事をしています。",
+      "example-read":"わたし は ざっし の へんしゅう の しごと を して います。",
+      "example-meaning":"Tôi làm biên tập viên của tạp chí.",
+      "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi82NDgwZmsxdjQwLmpwZWc=/6480fk1v40_140x140.jpeg"
+   },
+   {
+      "text":"選択",
+      "read":"[せんたく]",
+      "meaning":"lựa chọn",
+      "example-text":"この5種類から選択できます。",
+      "example-read":"この 5 しゅるい から せんたく できます。",
+      "example-meaning":"Bạn có thể chọn một trong năm loại này.",
+      "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi84NDluM2MydnM4LmpwZWc=/849n3c2vs8_140x140.jpeg"
+   },
+   {
+      "text":"無料",
+      "read":"[むりょう]",
+      "meaning":"miễn phí",
+      "example-text":"お飲み物は無料でございます。",
+      "example-read":"おのみもの は むりょう で ございます。",
+      "example-meaning":"Đồ uống được cung cấp miễn phí.",
+      "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9lM2ZqNXBldDdrLmpwZWc=/e3fj5pet7k_140x140.jpeg"
+   },
+   {
+      "text":"身",
+      "read":"[み]",
+      "meaning":"cơ thể",
+      "example-text":"旅行中は身の安全が第一です。",
+      "example-read":"りょこう ちゅう は み の あんぜん が だいいち です。",
+      "example-meaning":"An toàn cá nhân là ưu tiên số một khi đi du lịch.",
+      "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi85NDIwYnJiN200LmpwZWc=/9420brb7m4_140x140.jpeg"
+   },
+   {
+      "text":"分析",
+      "read":"[ぶんせき]",
+      "meaning":"phân tích",
+      "example-text":"今の経済の動きを分析しています。",
+      "example-read":"いま の けいざい の うごき を ぶんせき して います。",
+      "example-meaning":"Chúng tôi đang phân tích các hoạt động kinh tế ngày nay.",
+      "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi83NDF0ZjZhNmtnLmpwZWc=/741tf6a6kg_140x140.jpeg"
+   },
+   {
+      "text":"予算",
+      "read":"[よさん]",
+      "meaning":"ngân sách",
+      "example-text":"車の費用、予算オーバーだ。",
+      "example-read":"くるま の ひよう、 よさん オーバー だ。",
+      "example-meaning":"Chi phí xe vượt quá ngân sách.",
+      "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi85NGIxODBkdmFjLmpwZWc=/94b180dvac_140x140.jpeg"
+   },
+   {
+      "text":"目標",
+      "read":"[もくひょう]",
+      "meaning":"mục tiêu",
+      "example-text":"私は父を目標にしています。",
+      "example-read":"わたし は ちち を もくひょう に して います。",
+      "example-meaning":"Tôi nhìn cha tôi như là mục tiêu phấn đấu.",
+      "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi81MWNsZTBmczM0LmpwZWc=/51cle0fs34_140x140.jpeg"
+   },
+   {
+      "text":"通信",
+      "read":"[つうしん]",
+      "meaning":"truyền thông",
+      "example-text":"通信教育はとても便利です。",
+      "example-read":"つうしん きょういく は とても べんり です。",
+      "example-meaning":"Học trực tuyến là rất thuận tiện.",
+      "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9iM2M2YjU4YjlnLmpwZWc=/b3c6b58b9g_140x140.jpeg"
+   },
+   {
+      "text":"向ける",
+      "read":"[むける]",
+      "meaning":"quay về hướng",
+      "example-text":"彼は上司に怒りの目を向けたんだよ。",
+      "example-read":"かれ は じょうし に いかり の め を むけた ん だ よ。",
+      "example-meaning":"Anh ấy quay về phía ông chủ của mình trong sự tức giận.",
+      "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi84M2RqZnBjNnRzLmpwZWc=/83djfpc6ts_140x140.jpeg"
+   },
+   {
+      "text":"時刻",
+      "read":"[じこく]",
+      "meaning":"thời gian",
+      "example-text":"ただ今の時刻は6時35分です。",
+      "example-read":"ただいま の じこく は 6 じ 35 ふん です。",
+      "example-meaning":"Bây giờ là 6:35.",
+      "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi80Mjk0NWIwM2JrLmpwZWc=/42945b03bk_140x140.jpeg"
+   },
+   {
+      "text":"逆",
+      "read":"[ぎゃく]",
+      "meaning":"đối diện",
+      "example-text":"駅は逆方向です。",
+      "example-read":"えき は ぎゃく ほうこう です。",
+      "example-meaning":"Nhà ga nằm theo hướng đối diện.",
+      "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi85MTVpY2owcTZjLmpwZWc=/915icj0q6c_140x140.jpeg"
+   },
+   {
+      "text":"最高",
+      "read":"[さいこう]",
+      "meaning":"tốt nhất",
+      "example-text":"これまでで最高の結果が出たよ。",
+      "example-read":"これまで で さいこう の けっか が でた よ。",
+      "example-meaning":"Tôi đạt kết quả tốt nhất.",
+      "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9lNTkwMTJibjc4LmpwZWc=/e59012bn78_140x140.jpeg"
+   },
+   {
+      "text":"利益",
+      "read":"[りえき]",
+      "meaning":"lợi nhuận",
+      "example-text":"先月の利益は200万円でした。",
+      "example-read":"せんげつ の りえき は 200 まん えん でした。",
+      "example-meaning":"Lợi nhuận của tháng cuối cùng là 2.000.000 yên.",
+      "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi85M2ZpNDVjbGhzLmpwZWc=/93fi45clhs_140x140.jpeg"
+   },
+   {
+      "text":"事務",
+      "read":"[じむ]",
+      "meaning":"việc văn phòng",
+      "example-text":"事務の経験が3年あります。",
+      "example-read":"じむ の けいけん が 3 ねん あります。",
+      "example-meaning":"Tôi có ba năm kinh nghiệm trong công việc văn phòng.",
+      "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi8yMTNpYmo4djU0LmpwZWc=/213ibj8v54_140x140.jpeg"
+   },
+   {
+      "text":"出版",
+      "read":"[しゅっぱん]",
+      "meaning":"xuất bản",
+      "example-text":"この本は15年前に出版された。",
+      "example-read":"この ほん は 15 ねん まえ に しゅっぱん された。",
+      "example-meaning":"Cuốn sách này được xuất bản 15 năm trước.",
+      "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9iNTM5MHJjc3FnLmpwZWc=/b5390rcsqg_140x140.jpeg"
+   },
+   {
+      "text":"プロ",
+      "read":"",
+      "meaning":"chuyên nghiệp",
+      "example-text":"彼はスケートのプロです。",
+      "example-read":"かれ は スケート の プロ です。",
+      "example-meaning":"Anh ấy là một vận động viên trượt băng chuyên nghiệp.",
+      "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9mNGMzNmU5aDVvLmpwZWc=/f4c36e9h5o_140x140.jpeg"
+   },
+   {
+      "text":"様々",
+      "read":"[さまざま]",
+      "meaning":"đa dạng",
+      "example-text":"その都市には様々な人種が集まっているわ。",
+      "example-read":"その とし に は さまざまな じんしゅ が あつまって いる わ。",
+      "example-meaning":"Thành phố có một loạt các nhóm chủng tộc.",
+      "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi8zM2UyZmk5MTJrLmpwZWc=/33e2fi912k_140x140.jpeg"
+   },
+   {
+      "text":"州",
+      "read":"[しゅう]",
+      "meaning":"tỉnh",
+      "example-text":"来月、隣の州に引っ越します。",
+      "example-read":"らいげつ、となり の しゅう に ひっこします。",
+      "example-meaning":"Tôi sẽ chuyển đến sống ở tỉnh bên cạnh tháng tới.",
+      "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9hNGUzMmg4cWQ4LmpwZWc=/a4e32h8qd8_140x140.jpeg"
+   },
+   {
+      "text":"共通",
+      "read":"[きょうつう]",
+      "meaning":"chung",
+      "example-text":"私たちは共通の趣味を持っています。",
+      "example-read":"わたし たち は きょうつう の しゅみ を もって います。",
+      "example-meaning":"Chúng ta có một sở thích chung.",
+      "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9jNGMwYnA3Z3U4LmpwZWc=/c4c0bp7gu8_140x140.jpeg"
+   },
+   {
+      "text":"現代",
+      "read":"[げんだい]",
+      "meaning":"hiện đại",
+      "example-text":"現代の科学の進歩には驚くよ。",
+      "example-read":"げんだい の かがく の しんぽ に は おどろく よ。",
+      "example-meaning":"Sự tiến bộ của khoa học hiện đại sẽ làm bạn ngạc nhiên.",
+      "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9lMTdkNzZkZ25jLmpwZWc=/e17d76dgnc_140x140.jpeg"
+   },
+   {
+      "text":"被害",
+      "read":"[ひがい]",
+      "meaning":"thiệt hại",
+      "example-text":"彼の家は台風の被害にあったの。",
+      "example-read":"かれ の いえ は たいふう の ひがい に あった の。",
+      "example-meaning":"Ngôi nhà của ông đã bị hư hại trong cơn bão.",
+      "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi85MzBxMWkxdGljLmpwZWc=/930q1i1tic_140x140.jpeg"
+   },
+   {
+      "text":"新た",
+      "read":"[あらた]",
+      "meaning":"mới",
+      "example-text":"新たな計画が進んでいます。",
+      "example-read":"あらたな けいかく が すすんで います。",
+      "example-meaning":"Kế hoạch mới đang tiến triển.",
+      "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi81M2VpNGJlMjRjLmpwZWc=/53ei4be24c_140x140.jpeg"
+   },
+   {
+      "text":"相当",
+      "read":"[そうとう]",
+      "meaning":"tương đương",
+      "example-text":"1ポンドは454グラムに相当します。",
+      "example-read":"1 ポンド は 454 グラム に そうとう します。",
+      "example-meaning":"1 pound là tương đương với 454 gram.",
+      "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9hMzRhZTNhYm9zLmpwZWc=/a34ae3abos_140x140.jpeg"
+   },
+   {
+      "text":"更新",
+      "read":"[こうしん]",
+      "meaning":"cập nhật",
+      "example-text":"アパートの契約を更新した。",
+      "example-read":"アパート の けいやく を こうしん した。",
+      "example-meaning":"Tôi gia hạn hợp đồng của căn hộ.",
+      "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9mM2Q5YW5hZGZvLmpwZWc=/f3d9anadfo_140x140.jpeg"
+   },
+   {
+      "text":"得る",
+      "read":"[える]",
+      "meaning":"đạt được",
+      "example-text":"彼は大金を得ましたよ。",
+      "example-read":"かれ は たいきん を えました よ。",
+      "example-meaning":"Ông ta đã kiếm được rất nhiều tiền.",
+      "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9lNDUyM3I0djY4LmpwZWc=/e4523r4v68_140x140.jpeg"
+   },
+   {
+      "text":"内",
+      "read":"[うち]",
+      "meaning":"trong",
+      "example-text":"心の内をお話しください。",
+      "example-read":"こころ の うち を おはなし ください。",
+      "example-meaning":"Xin hãy nói suy nghĩ của bạn.",
+      "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi8wNWIwYzM5dmJrLmpwZWc=/05b0c39vbk_140x140.jpeg"
+   },
+   {
+      "text":"維持",
+      "read":"[いじ]",
+      "meaning":"duy trì",
+      "example-text":"彼女は何とか健康を維持しているわね。",
+      "example-read":"かのじょ は なんとか けんこう を いじ して いる わ ね。",
+      "example-meaning":"Cô ấy làm cách nào đó để duy trình sự khỏe khoắn.",
+      "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi8zMTRuOWU5aGswLmpwZWc=/314n9e9hk0_140x140.jpeg"
+   },
+   {
+      "text":"料金",
+      "read":"[りょうきん]",
+      "meaning":"chi phí",
+      "example-text":"まだ料金は払っていないけど。",
+      "example-read":"まだ りょうきん は はらって いない けど。",
+      "example-meaning":"Tôi vẫn chưa trả khoản lệ phí nào.",
+      "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi8yNGQzMXAxOWVrLmpwZWc=/24d31p19ek_140x140.jpeg"
+   },
+   {
+      "text":"到着",
+      "read":"[とうちゃく]",
+      "meaning":"đến",
+      "example-text":"夜9時に東京に到着しました。",
+      "example-read":"よる 9 じ に とうきょう に とうちゃく しました。",
+      "example-meaning":"Tôi đến Tokyo lúc 21:00.",
+      "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi80NDIzYmc0aTcwLmpwZWc=/4423bg4i70_140x140.jpeg"
+   },
+   {
+      "text":"なま物",
+      "read":"[なまもの]",
+      "meaning":"thức ăn tươi",
+      "example-text":"なま物ですのでお早めにお召し上がりください。",
+      "example-read":"なまもの です ので おはやめ に おめしあがり ください。",
+      "example-meaning":"Thức ăn chưa ôi thiu, vì vậy hãy ăn càng sớm càng tốt.",
+      "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi9lNGIxODM4cjJrLmpwZWc=/e4b1838r2k_140x140.jpeg"
+   }
+]

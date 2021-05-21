@@ -1,0 +1,12 @@
+.jg-article-image {
+  display: inline-block !important;
+  max-width: 100% !important;
+}
+
+.jg-article-image.jg-article-image-box {
+  width: 70%;
+}
+
+.jg-article-image.jg-article-image-full-width {
+  width: 100%;
+}

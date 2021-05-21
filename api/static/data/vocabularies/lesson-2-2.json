@@ -1,0 +1,902 @@
+[
+   {
+      "text":"毎年",
+      "read":"[まいねん]",
+      "meaning":"mỗi năm",
+      "example-text":"毎年給料が上がる。野菜の値段が毎年上がっています。",
+      "example-read":"まいねん きゅうりょう が  あがる。やさい の ねだん が まいねん あがって います。",
+      "example-meaning":"Tiền lương của tôi tăng lên mỗi năm. Giá của rau đi lên mỗi năm.",
+      "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAxLzMxOTUxMDQuanBn/3195104_140x140.jpg"
+   },
+   {
+      "text":"毎週",
+      "read":"[まいしゅう]",
+      "meaning":"mỗi tuần",
+      "example-text":"私は毎週母に電話をします。この週刊誌を毎週買っているの。",
+      "example-read":"わたし は まいしゅう はは に でんわ を します。この しゅうかん し を まいしゅう かって いる の。",
+      "example-meaning":"Tôi gọi cho mẹ tôi mỗi tuần. Tôi mua tạp chí này hàng tuần.",
+      "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzU2Mzc5MTYuanBn/5637916_140x140.jpg"
+   },
+   {
+      "text":"何度",
+      "read":"[なんど]",
+      "meaning":"nhiều lần",
+      "example-text":"あの店には何度も行きました。子どもの時、母と一緒に何度かディズニーランドに行きました。",
+      "example-read":"あの みせ に は なんど も いきました。こども の とき、はは と いっしょ に なんど か ディズニーランド に いきました。",
+      "example-meaning":"Tôi đã đến cửa hàng nhiều lần. Khi tôi đã là một đứa trẻ, tôi đã đi đến Disney Land nhiều lần với mẹ tôi.",
+      "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzM5ODMyMzYuanBn/3983236_140x140.jpg"
+   },
+   {
+      "text":"なかなか",
+      "read":"",
+      "meaning":"không dễ dàng",
+      "example-text":"荷物がなかなか届きません。バスがなかなか来ません。",
+      "example-read":"にもつ が なかなか とどきません。バス が なかなか きません。",
+      "example-meaning":"Bưu kiện vẫn chưa đến. Xe buýt khó lòng đến được.",
+      "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzQ2OTEwMTMuanBn/4691013_140x140.jpg"
+   },
+   {
+      "text":"さっき",
+      "read":"",
+      "meaning":"trước đó",
+      "example-text":"さっきの話を続けましょう。さっき郵便が届きました。",
+      "example-read":"さっき の はなし を つづけましょう。さっき ゆうびん が とどきました。",
+      "example-meaning":"Hãy tiếp tục cuộc trò chuyện trước đó. Thư vừa đến.",
+      "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAxLzMwNzI5ODMuanBn/3072983_140x140.jpg"
+   },
+   {
+      "text":"久しぶり",
+      "read":"[ひさしぶり]",
+      "meaning":"đã lâu",
+      "example-text":"明日、久しぶりに友達に会います。彼に会ったのは久しぶりです。",
+      "example-read":"あした、ひさしぶり に ともだち に あいます。かれ に あった の は ひさしぶり です。",
+      "example-meaning":"Ngày mai tôi đang gặp một người bạn tôi đã không nhìn thấy trong một thời gian dài. Nó được một lúc kể từ khi tôi đã nhìn thấy anh ta.",
+      "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzM4Njc3MDIuanBn/3867702_140x140.jpg"
+   },
+   {
+      "text":"便利",
+      "read":"[べんり]",
+      "meaning":"thuận tiện",
+      "example-text":"インターネットはとても便利です。自転車は便利な乗り物です。",
+      "example-read":"インターネット は とても べんり です。じてんしゃ は べんりな のりもの です。",
+      "example-meaning":"Internet là rất thuận tiện. Xe đạp là một hình thức thuận tiện của giao thông vận tải.",
+      "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzU0NzU0NjMuanBn/5475463_140x140.jpg"
+   },
+   {
+      "text":"迷惑",
+      "read":"[めいわく]",
+      "meaning":"rắc rối",
+      "example-text":"人に迷惑をかけてはいけません。夜中に電話したら迷惑ですよ。",
+      "example-read":"ひと に めいわく を かけて は いけません。よなか に でんわ したら めいわく です よ。",
+      "example-meaning":"Bạn không nên gây rắc rối cho người khác. Nó gây phiền nhiễu nếu bạn gọi vào lúc nửa đêm.",
+      "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzM1NTYwOTIuanBn/3556092_140x140.jpg"
+   },
+   {
+      "text":"そんなに",
+      "read":"",
+      "meaning":"chừng đó",
+      "example-text":"一度にそんなにたくさんはできない。あのスーツはそんなに高くない。",
+      "example-read":"いちど  に そんな に たくさん は できない。あの スーツ は そんな に たかくない。",
+      "example-meaning":"Bạn không thể làm chừng đó một lúc. Áo véc đó không dài như thế.",
+      "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzYyNjc0MjEuanBn/6267421_140x140.jpg"
+   },
+   {
+      "text":"びっくりする",
+      "read":"",
+      "meaning":"ngạc nhiên",
+      "example-text":"大きな音にびっくりしました。急に名前を呼ばれてびっくりしました。",
+      "example-read":"おおきな おと に びっくり しました。きゅう に なまえ を よばれて びっくり しました。",
+      "example-meaning":"Tôi đã giật mình bởi một tiếng ồn đột ngột. Tôi rất ngạc nhiên khi tên tôi đột ngột được gọi.",
+      "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAxLzI2NTE5OTYuanBn/2651996_140x140.jpg"
+   },
+   {
+      "text":"足りる",
+      "read":"[たりる]",
+      "meaning":"đủ",
+      "example-text":"お金が足りなくて買えなかった。千円で足りました。",
+      "example-read":"おかね が たりなくて かえなかった。せん えん で たりました。",
+      "example-meaning":"Tôi không thể mua nó vì tôi không có đủ tiền. 1000 yên là đủ.",
+      "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzM4Njc4ODEuanBn/3867881_140x140.jpg"
+   },
+   {
+      "text":"疲れる",
+      "read":"[つかれる]",
+      "meaning":"mệt mỏi",
+      "example-text":"今日は疲れました。少し疲れました。",
+      "example-read":"きょう は つかれました。すこし つかれました。",
+      "example-meaning":"Hôm nay tôi đã mệt mỏi. Tôi hơi mệt mỏi một chút.",
+      "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzQ5MzgxMjcuanBn/4938127_140x140.jpg"
+   },
+   {
+      "text":"ひどい",
+      "read":"",
+      "meaning":"khủng khiếp",
+      "example-text":"妹とひどい喧嘩をした。今日はひどい雨になりましたね。",
+      "example-read":"いもうと と ひどい けんか を した。きょう は ひどい あめ に なりました ね。",
+      "example-meaning":"Tôi đã có một cuộc tranh cãi khủng khiếp với em gái tôi. Hôm nay mưa tầm tã.",
+      "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAxLzE2MzYxMjYuanBn/1636126_140x140.jpg"
+   },
+   {
+      "text":"全然",
+      "read":"[ぜんぜん]",
+      "meaning":"toàn bộ",
+      "example-text":"この本は全然面白くなかった。今月はお金が全然足りません。",
+      "example-read":"この ほん は ぜんぜん おもしろくなかった。こんげつ は おかね が ぜんぜん たりません。",
+      "example-meaning":"Cuốn sách này không có gì thú vị cả. Tháng này tôi hoàn toàn không có đủ tiền.",
+      "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzg1OTY4NC5qcGc=/859684_140x140.jpg"
+   },
+   {
+      "text":"猫",
+      "read":"[ねこ]",
+      "meaning":"mèo",
+      "example-text":"私は猫が大好きです。庭に白い猫がいます。",
+      "example-read":"わたし は ねこ が だいすき です。にわ に しろい ねこ が います。",
+      "example-meaning":"Tôi yêu mèo. Có một con mèo trắng trong vườn.",
+      "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzU4NjE5NDguanBn/5861948_140x140.jpg"
+   },
+   {
+      "text":"デパート",
+      "read":"",
+      "meaning":"cửa hàng bách hóa",
+      "example-text":"私はデパートで靴を買った。私たちは、子供を連れてデパートに行った。",
+      "example-read":"わたし は デパート で くつ を かった。わたし たち は こども を つれて デパート に いった。",
+      "example-meaning":"Tôi mua một đôi giày tại cửa hàng bách hóa. Chúng tôi đưa lũ trẻ tới cửa hàng bách hóa.",
+      "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAxLzE1NDcwOTguanBn/1547098_140x140.jpg"
+   },
+   {
+      "text":"トイレ",
+      "read":"",
+      "meaning":"phòng vệ sinh",
+      "example-text":"トイレを掃除しましたか。すみません、トイレはどこですか。",
+      "example-read":"トイレ を そうじ しました か。すみません、トイレ は どこ です か。",
+      "example-meaning":"Bạn đã làm sạch nhà vệ sinh chưa? Xin lỗi, nhà vệ sinh ở đâu?",
+      "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzYwMjYzMDAuanBn/6026300_140x140.jpg"
+   },
+   {
+      "text":"地下鉄",
+      "read":"[ちかてつ]",
+      "meaning":"tàu địa ngầm",
+      "example-text":"私は地下鉄で通勤しています。次の駅で地下鉄に乗り換えます。",
+      "example-read":"わたし は ちかてつ で つうきん して います。つぎ の えき で ちかてつ に のりかえます。",
+      "example-meaning":"Tôi đi làm bằng tàu điện ngầm. Tôi chuyển sang tàu điện ngầm tại trạm tiếp theo.",
+      "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAxLzE1MDc5OTIuanBn/1507992_140x140.jpg"
+   },
+   {
+      "text":"駐車場",
+      "read":"[ちゅうしゃじょう]",
+      "meaning":"bãi đậu xe",
+      "example-text":"車は駐車場に止めてください。この駐車場は1時間400円です。",
+      "example-read":"くるま は ちゅうしゃじょう に とめて ください。この ちゅうしゃじょう は 1 じかん 400 えん です。",
+      "example-meaning":"Vui lòng đậu xe ở bãi đỗ xe. Bãi đậu xe này chi phí 400 yên/giờ.",
+      "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAxLzI3MzY1MTQuanBn/2736514_140x140.jpg"
+   },
+   {
+      "text":"ぶつかる",
+      "read":"",
+      "meaning":"va vào",
+      "example-text":"車が電柱にぶつかった。スマホを見ていたら人にぶつかった。",
+      "example-read":"くるま が でんちゅう に ぶつかった。スマホ を みて いたら ひと に ぶつかった。",
+      "example-meaning":"Chiếc xe đâm vào cột điện thoại. Tôi va phải ai đó khi nhìn vào điện thoại.",
+      "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAxLzE1MzcyMC5qcGc=/153720_140x140.jpg"
+   },
+   {
+      "text":"運賃",
+      "read":"[うんちん]",
+      "meaning":"giá vé",
+      "example-text":"鉄道の運賃が値上げされたね。運賃は降りる時に払ってください。",
+      "example-read":"てつどう の うんちん が ねあげ された ね。うんちん は おりる とき に はらって ください。",
+      "example-meaning":"Vé tàu đã tăng giá. Xin vui lòng trả tiền vé khi bạn xuống.",
+      "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy91c2Vycy9TbWFydC5mbS80bDZiZGUwdGloa3JvLmpwZw==/4l6bde0tihkro_140x140.jpg"
+   },
+   {
+      "text":"通学",
+      "read":"[つうがく]",
+      "meaning":"đến trường",
+      "example-text":"毎朝、通学に1時間かかる。私は電車で通学しています。",
+      "example-read":"まいあさ、つうがく に 1 じかん かかる。わたし は でんしゃ で つうがく して います。",
+      "example-meaning":"Tôi phải mất một giờ để đi học mỗi buổi sáng. Tôi đi học bằng tàu hỏa.",
+      "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzUwMTkxMzguanBn/5019138_140x140.jpg"
+   },
+   {
+      "text":"見送る",
+      "read":"[みおくる]",
+      "meaning":"tiễn",
+      "example-text":"彼が外国に行くのを見送りました。私たちはみんなで彼を見送りました。",
+      "example-read":"かれ が がいこく に いく の を みおくりました。わたし たち は みんな で かれ を みおくりました。",
+      "example-meaning":"Tôi đã tiễn anh ấy đi nước ngoài. Tất cả chúng tôi tiễn anh ấy.",
+      "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzMzMTczMjcuanBn/3317327_140x140.jpg"
+   },
+   {
+      "text":"泣く",
+      "read":"[なく]",
+      "meaning":"khóc",
+      "example-text":"妹はすぐに泣く。どうして泣いているの。",
+      "example-read":"いもうと は すぐ に なく。どうして ないて いる の。",
+      "example-meaning":"Em gái tôi đột ngột khóc. Tại sao bạn khóc?",
+      "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzQ5NDU5NjYuanBn/4945966_140x140.jpg"
+   },
+   {
+      "text":"レストラン",
+      "read":"",
+      "meaning":"nhà hàng",
+      "example-text":"レストランでインド料理を食べました。レストランを予約しました。",
+      "example-read":"レストラン で インド りょうり を たべました。レストラン を よやく しました。",
+      "example-meaning":"Tôi ăn thực phẩm Ấn Độ tại nhà hàng. Tôi đã đặt nhà hàng.",
+      "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzYzODgyNTMuanBn/6388253_140x140.jpg"
+   },
+   {
+      "text":"メモ",
+      "read":"",
+      "meaning":"ghi chú",
+      "example-text":"メモを取ってください。用件をメモしておきました。",
+      "example-read":"メモ を とって ください。ようけん を メモ して おきました。",
+      "example-meaning":"Hãy ghi chú. Tôi đã thực hiện một lưu ý về vấn đề.",
+      "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzUxNzY0ODMuanBn/5176483_140x140.jpg"
+   },
+   {
+      "text":"予約",
+      "read":"[よやく]",
+      "meaning":"đặt trước",
+      "example-text":"レストランを予約しました。予約は要りません。",
+      "example-read":"レストラン を よやく しました。よやく は いりません。",
+      "example-meaning":"Tôi đã đặt nhà hàng. Không yêu cầu đặt chỗ.",
+      "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzM1NzA4NDcuanBn/3570847_140x140.jpg"
+   },
+   {
+      "text":"番号",
+      "read":"[ばんごう]",
+      "meaning":"số",
+      "example-text":"この番号に電話してください。電話番号を間違えました。",
+      "example-read":"この ばんごう に でんわ して ください。でんわ ばんごう を まちがえました。",
+      "example-meaning":"Xin gọi số này. Tôi gọi sai số.",
+      "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzQ0Njk0MzEuanBn/4469431_140x140.jpg"
+   },
+   {
+      "text":"注文",
+      "read":"[ちゅうもん]",
+      "meaning":"đặt hàng",
+      "example-text":"レストランでピザを注文しました。カタログを見て注文したんだ。",
+      "example-read":"レストラン で ピザ を ちゅうもん しました。カタログ を みて ちゅうもん した ん だ。",
+      "example-meaning":"Tôi đã đặt pizza tại nhà hàng. Tôi nhìn vào danh mục và gọi món.",
+      "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzM0MDY4NTAuanBn/3406850_140x140.jpg"
+   },
+   {
+      "text":"パン",
+      "read":"",
+      "meaning":"bánh mì",
+      "example-text":"朝ご飯にはいつもパンを食べる。私はパンよりご飯が好きだ。",
+      "example-read":"あさ ごはん に は いつも パン を たべる。わたし は パン より ごはん が すき だ。",
+      "example-meaning":"Tôi luôn ăn bánh mì cho bữa ăn sáng. Tôi thích cơm hơn bánh mì.",
+      "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzY0MTUxNDQuanBn/6415144_140x140.jpg"
+   },
+   {
+      "text":"ワイン",
+      "read":"",
+      "meaning":"rượu",
+      "example-text":"ワインを少し飲みました。私はワインが好きです。",
+      "example-read":"ワイン を すこし のみました。わたし は ワイン が すき です。",
+      "example-meaning":"Tôi uống ít rượu. Tôi thích rượu.",
+      "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzQ0MDA5NDguanBn/4400948_140x140.jpg"
+   },
+   {
+      "text":"材料",
+      "read":"[ざいりょう]",
+      "meaning":"vật liệu",
+      "example-text":"サラダの材料をそろえました。カレーの材料を買いに行きましょう。",
+      "example-read":"サラダ の ざいりょう を そろえました。カレー の ざいりょう を かいに いきましょう。",
+      "example-meaning":"Tôi có tất cả các thành phần làm salad. Hãy đi lấy nguyên liệu làm cà ri.",
+      "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAxLzMxMzE5NjQuanBn/3131964_140x140.jpg"
+   },
+   {
+      "text":"豚肉",
+      "read":"[ぶたにく]",
+      "meaning":"thịt lợn",
+      "example-text":"豚肉は美味しいです。今、豚肉が安くなっていますよ。",
+      "example-read":"ぶたにく は おいしい です。いま、 ぶたにく が やすく なって います よ。",
+      "example-meaning":"Thịt lợn ngon. Bây giờ thịt lợn đã trở nên rẻ.",
+      "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzQwMzE4MDguanBn/4031808_140x140.jpg"
+   },
+   {
+      "text":"焼く",
+      "read":"[やく]",
+      "meaning":"nướng",
+      "example-text":"今、魚を焼いています。晩ご飯に肉を焼きました。",
+      "example-read":"いま、さかな を やいて います。ばん ごはん に にく を やきました。",
+      "example-meaning":"Tôi đang nướng cá bây giờ. Tôi nướng thịt cho bữa ăn tối.",
+      "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzM0MzM4MjkuanBn/3433829_140x140.jpg"
+   },
+   {
+      "text":"匂い",
+      "read":"[におい]",
+      "meaning":"mùi",
+      "example-text":"いい匂いがする。私はバラの匂いが大好きです。",
+      "example-read":"いい におい が する。わたし は バラ の におい が だいすき です。",
+      "example-meaning":"Nó có mùi thơm. Tôi thích mùi hoa hồng.",
+      "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzU0NzU0NzEuanBn/5475471_140x140.jpg"
+   },
+   {
+      "text":"付ける",
+      "read":"[つける]",
+      "meaning":"đính kèm",
+      "example-text":"おまけを付けました。プレゼントにリボンを付けた。",
+      "example-read":"おまけ を つけました。プレゼント に リボン を つけた。",
+      "example-meaning":"Có món đồ tặng kèm. Tôi đặt một cái nơ trên hộp quà.",
+      "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzU3NzU1ODQuanBn/5775584_140x140.jpg"
+   },
+   {
+      "text":"痩せる",
+      "read":"[やせる]",
+      "meaning":"giảm cân",
+      "example-text":"私は少し痩せました。お医者さんに痩せるように言われました。",
+      "example-read":"わたし は すこし やせました。おいしゃさん に やせる よう に いわれました。",
+      "example-meaning":"Tôi đã mất một ít trọng lượng. Bác sĩ khuyên tôi giảm cân.",
+      "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzUwOTgwOTAuanBn/5098090_140x140.jpg"
+   },
+   {
+      "text":"届ける",
+      "read":"[とどける]",
+      "meaning":"đưa tới",
+      "example-text":"これを彼に届けてください。この花をお祖母ちゃんに届けてください。",
+      "example-read":"これ を かれ に とどけて ください。この はな を おばあちゃん に とどけて ください。",
+      "example-meaning":"Xin vui lòng gửi cái này cho anh ta. Hãy gửi hoa này cho bà ngoại.",
+      "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzU2NjE1NzYuanBn/5661576_140x140.jpg"
+   },
+   {
+      "text":"間に合う",
+      "read":"[まにあう]",
+      "meaning":"đúng lúc",
+      "example-text":"授業に間に合いました。駅まで走って電車に間に合いました。",
+      "example-read":"じゅぎょう に まにあいました。えき まで はしって でんしゃ に まにあいました。",
+      "example-meaning":"Tôi tới lớp đúng lúc. Tôi chạy đến trạm và kịp giờ tàu.",
+      "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzYzNTEwNzEuanBn/6351071_140x140.jpg"
+   },
+   {
+      "text":"向く",
+      "read":"[むく]",
+      "meaning":"hướng tới",
+      "example-text":"こっちを向いてください。後ろを向いて。",
+      "example-read":"こっち を むいて ください。うしろ を むいて。",
+      "example-meaning":"Hãy quay về phía này. Quay ra sau.",
+      "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzUwODg1ODYuanBn/5088586_140x140.jpg"
+   },
+   {
+      "text":"強さ",
+      "read":"[つよさ]",
+      "meaning":"sức mạnh",
+      "example-text":"風の強さに驚きました。私は女性にも強さが必要だと思います。",
+      "example-read":"かぜ の つよさ に おどろきました。わたし は じょせい に も つよさ が ひつよう だ と おもいます。",
+      "example-meaning":"Tôi ngạc nhiên về sức mạnh của gió. Tôi nghĩ rằng phụ nữ cũng cần sức mạnh.",
+      "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzQ0MDEzOTQuanBn/4401394_140x140.jpg"
+   },
+   {
+      "text":"得意",
+      "read":"[とくい]",
+      "meaning":"sở trường",
+      "example-text":"彼は歌が得意です。彼女はギターが得意です。",
+      "example-read":"かれ は うた が とくい です。かのじょ は ギター が とくい です。",
+      "example-meaning":"Anh ấy giỏi hát. Cô ấy giỏi guitar.",
+      "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzU2NzYwMTcuanBn/5676017_140x140.jpg"
+   },
+   {
+      "text":"塗る",
+      "read":"[ぬる]",
+      "meaning":"sơn, trải",
+      "example-text":"壁にペンキを塗っています。手にハンドクリームを塗りました。",
+      "example-read":"かべ に ペンキ を ぬって います。て に ハンド クリーム を ぬりました。",
+      "example-meaning":"Tôi đang sơn tường. Tôi trải khăn tay trên bàn tay của tôi.",
+      "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzQ1NzkxMzUuanBn/4579135_140x140.jpg"
+   },
+   {
+      "text":"投げる",
+      "read":"[なげる]",
+      "meaning":"ném",
+      "example-text":"ボールをこっちに投げてください。彼はボールを投げた。",
+      "example-read":"ボール を こっち に なげて ください。かれ は ボール を なげた。",
+      "example-meaning":"Xin vui lòng ném bóng lên đây. Anh ta đã ném bóng.",
+      "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzUzODg3MjQuanBn/5388724_140x140.jpg"
+   },
+   {
+      "text":"習う",
+      "read":"[ならう]",
+      "meaning":"học",
+      "example-text":"私はダンスを習っています。昔、ピアノを習っていました。",
+      "example-read":"わたし は ダンス を ならって います。むかし 、 ピアノ を ならって いました 。",
+      "example-meaning":"Tôi đang học cách nhảy. Tôi đã từng đi học piano.",
+      "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzU1OTA1MDYuanBn/5590506_140x140.jpg"
+   },
+   {
+      "text":"注目",
+      "read":"[ちゅうもく]",
+      "meaning":"chú ý",
+      "example-text":"私たちはその会社に注目している。この写真の右側の花に注目してください。",
+      "example-read":"わたし たち は その かいしゃ に ちゅうもく して いる。この しゃしん の みぎがわ の はな に ちゅうもく して ください。",
+      "example-meaning":"Chúng tôi đang để ý công ty đó. Hãy chú ý đến những bông hoa ở phía bên phải của hình ảnh này.",
+      "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzU2NTA2ODkuanBn/5650689_140x140.jpg"
+   },
+   {
+      "text":"未来",
+      "read":"[みらい]",
+      "meaning":"tương lai",
+      "example-text":"未来は誰にも分からない。お二人の未来に乾杯しましょう。",
+      "example-read":"みらい は だれ に も わからない。おふたり の みらい に かんぱい しましょう。",
+      "example-meaning":"Không ai biết tương lai. Hãy uống vì tương lai của đôi vợ chồng.",
+      "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAxLzI4NzgzMjEuanBn/2878321_140x140.jpg"
+   },
+   {
+      "text":"箱",
+      "read":"[はこ]",
+      "meaning":"hộp",
+      "example-text":"この箱は重い。棚からその箱を下ろしてください。",
+      "example-read":"この はこ は おもい。たな から その はこ を おろして ください。",
+      "example-meaning":"Hộp này nặng. Xin vui lòng lấy hộp xuống từ kệ.",
+      "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzU4MTkxMzMuanBn/5819133_140x140.jpg"
+   },
+   {
+      "text":"右手",
+      "read":"[みぎて]",
+      "meaning":"tay phải",
+      "example-text":"私は右手で字を書きます。彼は右手でボールを取りました。",
+      "example-read":"わたし は みぎて で じ を かきます。かれ は みぎて で ボール を とりました。",
+      "example-meaning":"Tôi viết tay phải. Anh ấy bắt bóng bằng tay phải.",
+      "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzU0NDMwMjQuanBn/5443024_140x140.jpg"
+   },
+   {
+      "text":"左手",
+      "read":"[ひだりて]",
+      "meaning":"tay trái",
+      "example-text":"彼女は左手で字を書く。私はいつも左手に時計をします。",
+      "example-read":"かのじょ は ひだりて で じ を かく。わたし は いつも ひだりて に とけい を します。",
+      "example-meaning":"Cô ấy viết tay trái. Tôi luôn đeo một chiếc đồng hồ trên tay trái.",
+      "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzQ5MDkzNzYuanBn/4909376_140x140.jpg"
+   },
+   {
+      "text":"プール",
+      "read":"",
+      "meaning":"hồ bơi",
+      "example-text":"私は夏休みにプールに行った。プールは人でいっぱいです。",
+      "example-read":"わたし は なつやすみ に プール に いった。プール は ひと で いっぱい です。",
+      "example-meaning":"Tôi đi đến hồ bơi trong kỳ nghỉ hè. Hồ bơi đông người.",
+      "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzQwNTkxNzIuanBn/4059172_140x140.jpg"
+   },
+   {
+      "text":"ピアノ",
+      "read":"",
+      "meaning":"piano",
+      "example-text":"昔、ピアノを習っていました。このピアノは音があまり良くない。",
+      "example-read":"むかし、ピアノ を ならって いました。この ピアノ は おと が あまり よく ない。",
+      "example-meaning":"Tôi đã từng đi học piano. Âm thanh của đàn piano này không hay.",
+      "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzQxNTEzODkuanBn/4151389_140x140.jpg"
+   },
+   {
+      "text":"光る",
+      "read":"[ひかる]",
+      "meaning":"phát sáng",
+      "example-text":"波がきらきら光っていました。星がきらきら光っている。",
+      "example-read":"なみ が きらきら ひかって いました。ほし が きらきら ひかって いる。",
+      "example-meaning":"Những con sóng lấp lánh rực rỡ. Các ngôi sao chiếu sáng rực rỡ.",
+      "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzUxNTUyMzguanBn/5155238_140x140.jpg"
+   },
+   {
+      "text":"踏む",
+      "read":"[ふむ]",
+      "meaning":"dẵm vào",
+      "example-text":"運転手がブレーキを踏んだ。花を踏まないでください。",
+      "example-read":"うんてんしゅ が ブレーキ を ふんだ。はな を ふまないで ください。",
+      "example-meaning":"Tài xế đạp phanh. Đừng dẵm vào những bông hoa.",
+      "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAxLzIyMDc3MzkuanBn/2207739_140x140.jpg"
+   },
+   {
+      "text":"別々",
+      "read":"[べつべつ]",
+      "meaning":"riêng rẽ",
+      "example-text":"別々に払いましょう。私たち夫婦は別々の部屋で寝ています。",
+      "example-read":"べつべつ に はらいましょう。わたし たち ふうふ は べつべつ の へや で ねて います。",
+      "example-meaning":"Hãy trả tiền riêng. Vợ chồng tôi ngủ trong phòng khác nhau.",
+      "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzM0NzY0My5qcGc=/347643_140x140.jpg"
+   },
+   {
+      "text":"ボール",
+      "read":"",
+      "meaning":"bóng",
+      "example-text":"彼はボールを投げた。ボールが彼の頭に当たった。",
+      "example-read":"かれ は ボール を なげた。ボール が かれ の あたま に あたった。",
+      "example-meaning":"Anh ấy đã ném bóng. Quả bóng đâm vào đầu.",
+      "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAxLzE4MDIzNjUuanBn/1802365_140x140.jpg"
+   },
+   {
+      "text":"握る",
+      "read":"[にぎる]",
+      "meaning":"bắt",
+      "example-text":"少女は母親の手を握った。ずっとペンを握っていたので、手が痛いです。",
+      "example-read":"しょうじょ は ははおや の て を にぎった。ずっと ペン を にぎって いた ので、て が いたい です。",
+      "example-meaning":"Cô gái đã giữ bàn tay của mẹ cô. Bởi vì tôi đã cầm bút lâu, bàn tay của tôi đau.",
+      "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzY2MDg0Ny5qcGc=/660847_140x140.jpg"
+   },
+   {
+      "text":"真っ赤",
+      "read":"[まっか]",
+      "meaning":"màu đỏ đậm",
+      "example-text":"彼の顔は真っ赤でした。彼女は真っ赤なドレスを着ていました。",
+      "example-read":"かれ の かお は まっか でした。かのじょ は まっかな ドレス を きて いました。",
+      "example-meaning":"Khuôn mặt của ông đỏ sậm. Cô ấy mặc một cái váy đỏ chót.",
+      "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzQ4NzczMTAuanBn/4877310_140x140.jpg"
+   },
+   {
+      "text":"拾う",
+      "read":"[ひろう]",
+      "meaning":"nhặt",
+      "example-text":"道で財布を拾った。私は子猫を拾いました。",
+      "example-read":"みち で さいふ を  ひろった。わたし は こ ねこ を ひろいました。",
+      "example-meaning":"Tôi nhặt một chiếc ví trên đường phố. Tôi nhặt được một con mèo con.",
+      "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzU4MDE3ODYuanBn/5801786_140x140.jpg"
+   },
+   {
+      "text":"回す",
+      "read":"[まわす]",
+      "meaning":"xoay",
+      "example-text":"ねじは左に回すと外れます。",
+      "example-read":"ねじ は ひだり に まわす と はずれます。",
+      "example-meaning":"Xoay vít sang trái, và nó sẽ đi ra.",
+      "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzQxMTk4ODMuanBn/4119883_140x140.jpg"
+   },
+   {
+      "text":"ノート",
+      "read":"",
+      "meaning":"quyển vở",
+      "example-text":"ノートを開いてください。大切なことはノートに書いてください。",
+      "example-read":"ノート を ひらいて ください。たいせつな こと は ノート に かいて ください。",
+      "example-meaning":"Vui lòng mở vở của bạn. Vui lòng viết những điều quan trọng trong sổ.",
+      "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAxLzIyMjE5MTQuanBn/2221914_140x140.jpg"
+   },
+   {
+      "text":"辞める",
+      "read":"[やめる]",
+      "meaning":"từ bỏ",
+      "example-text":"彼は会社を辞めます。こんな会社、もう辞めたい。",
+      "example-read":"かれ は かいしゃ を やめます。こんな かいしゃ、もう やめたい。",
+      "example-meaning":"Anh ta rời khỏi công ty. Tôi muốn rời công ty bây giờ.",
+      "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzQzMjMxMzkuanBn/4323139_140x140.jpg"
+   },
+   {
+      "text":"揺れる",
+      "read":"[ゆれる]",
+      "meaning":"lắc",
+      "example-text":"風で木が揺れています。地震で家がかなり揺れました。",
+      "example-read":"かぜ で き が ゆれて います。じしん で いえ が かなり ゆれました。",
+      "example-meaning":"Các cây đang lắc lư trong gió. Ngôi nhà rung lắc khá nhiều do trận động đất.",
+      "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy91c2Vycy9TbWFydC5mbS8zbDVtNzBkcXJvM21nLmpwZw==/3l5m70dqro3mg_140x140.jpg"
+   },
+   {
+      "text":"立派",
+      "read":"[りっぱ]",
+      "meaning":"thanh lịch",
+      "example-text":"彼は立派な人です。彼らは立派な家を建てました。",
+      "example-read":"かれ は りっぱな ひと です。かれら は りっぱな いえ を たてました。",
+      "example-meaning":"Anh ta là người tốt. Họ xây dựng một ngôi nhà tráng lệ.",
+      "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzU2OTExMjYuanBn/5691126_140x140.jpg"
+   },
+   {
+      "text":"練習",
+      "read":"[れんしゅう]",
+      "meaning":"luyện tập",
+      "example-text":"娘は今、バイオリンを練習しています。息子は土曜日も日曜日もサッカーの練習に行く。",
+      "example-read":"むすめ は いま、バイオリン を れんしゅう して います。むすこ は どようび も にちようび も サッカー の れんしゅう に いく。",
+      "example-meaning":"Con gái tôi đang luyện tập violin bây giờ. Con trai tôi đi tập bóng đá vào ngày thứ bảy và chủ nhật.",
+      "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzUwMzI1NDMuanBn/5032543_140x140.jpg"
+   },
+   {
+      "text":"割る",
+      "read":"[わる]",
+      "meaning":"vỡ",
+      "example-text":"皿を落として割った。卵を三つ割ってください。",
+      "example-read":"さら を おとして わった。たまご を みっつ わって ください。",
+      "example-meaning":"Tôi làm rơi đĩa và phá vỡ nó. Hãy đập ba quả trứng.",
+      "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAxLzExMTYzNTMuanBn/1116353_140x140.jpg"
+   },
+   {
+      "text":"部分",
+      "read":"[ぶぶん]",
+      "meaning":"bộ phận",
+      "example-text":"この部分は問題ないです。あなたのレポートのこの部分を直してください。",
+      "example-read":"この ぶぶん は もんだい ない です。あなた の レポート の この ぶぶん を なおして ください。",
+      "example-meaning":"Không có vấn đề với phần này. Vui lòng sửa đổi phần này trong báo cáo của bạn.",
+      "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzUzNzc4MjMuanBn/5377823_140x140.jpg"
+   },
+   {
+      "text":"拭く",
+      "read":"[ふく]",
+      "meaning":"lau",
+      "example-text":"タオルで体を拭きました。彼はタオルで顔を拭きました。",
+      "example-read":"タオル で からだ を ふきました。かれ は タオル で かお を ふきました。",
+      "example-meaning":"Tôi lau cơ thể với một chiếc khăn. Ông lau khuôn mặt của mình với một chiếc khăn.",
+      "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzU3NDU0OTIuanBn/5745492_140x140.jpg"
+   },
+   {
+      "text":"招く",
+      "read":"[まねく]",
+      "meaning":"mời",
+      "example-text":"両親を食事に招いた。私は友達のホームパーティーに招かれました。",
+      "example-read":"りょうしん を しょくじ に まねいた。わたし は ともだち の ホーム パーティー に まねかれました。",
+      "example-meaning":"Tôi mời bố mẹ tôi một bữa ăn. Tôi đã được mời đến bữa tiệc của một người bạn.",
+      "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzgxNTI1Ni5qcGc=/815256_140x140.jpg"
+   },
+   {
+      "text":"急",
+      "read":"[きゅう]",
+      "meaning":"khẩn cấp",
+      "example-text":"急な坂道を上った。彼の入院は急なことで、みんな驚いた。",
+      "example-read":"きゅうな さかみち を のぼった。かれ の にゅういん は きゅうな こと で、みんな おどろいた。",
+      "example-meaning":"Tôi đi lên ngọn đồi dốc. Mọi người đều ngạc nhiên khi ông đột ngột nhập viện.",
+      "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzQ3ODM0NzEuanBn/4783471_140x140.jpg"
+   },
+   {
+      "text":"汚れる",
+      "read":"[よごれる]",
+      "meaning":"bẩn thỉu",
+      "example-text":"エプロンをしないと服が汚れます。ズボンが汚れた。",
+      "example-read":"エプロン を しない と ふく が よごれます。ズボン が よごれた。",
+      "example-meaning":"Quần áo của bạn sẽ bị bẩn nếu bạn không đeo tạp dề. Quần của tôi bẩn rồi.",
+      "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzQxMzM1NjMuanBn/4133563_140x140.jpg"
+   },
+   {
+      "text":"渡る",
+      "read":"[わたる]",
+      "meaning":"đi qua",
+      "example-text":"私たちは歩いて橋を渡った。小さな川を渡りました。",
+      "example-read":"わたし たち は あるいて はし を わたった。ちいさな かわ を わたりました。",
+      "example-meaning":"Chúng tôi đi qua cây cầu. Tôi đã vượt qua một dòng suối.",
+      "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzQ3MDA0NDYuanBn/4700446_140x140.jpg"
+   },
+   {
+      "text":"途中",
+      "read":"[とちゅう]",
+      "meaning":"trên đường",
+      "example-text":"途中で30分ほど休みましょう。途中で財布を落としました。",
+      "example-read":"とちゅう で 30 ぷん ほど やすみましょう。とちゅう で さいふ を おとしました。",
+      "example-meaning":"Chúng ta hãy nghỉ ngơi trên đường trong khoảng 30 phút. Tôi bị mất ví của tôi trên đường.",
+      "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy91c2Vycy9TbWFydC5mbS9jbGFpNmQyMGc4aXVnLmpwZw==/clai6d20g8iug_140x140.jpg"
+   },
+   {
+      "text":"インタビュー",
+      "read":"",
+      "meaning":"phỏng vấn",
+      "example-text":"彼はインタビューに、はきはきと答えてたよ。今日はインタビューが二つ入っています。",
+      "example-read":"かれ は インタビュー に、はきはき と こたえて た よ。きょう は インタビュー が ふたつ はいって います。",
+      "example-meaning":"Câu trả lời của ông rất rõ ràng trong cuộc phỏng vấn. Tôi có hai cuộc phỏng vấn ngày hôm nay.",
+      "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAxLzE1NDg5MTUuanBn/1548915_140x140.jpg"
+   },
+   {
+      "text":"盗む",
+      "read":"[ぬすむ]",
+      "meaning":"ăn cắp",
+      "example-text":"誰かが私のカバンを盗みました。私は財布を盗まれました。",
+      "example-read":"だれ か が わたし の カバン を ぬすみました。わたし は さいふ を ぬすまれました。",
+      "example-meaning":"Có người đã lấy cắp túi của tôi. Ví của tôi đã bị đánh cắp.",
+      "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAxLzI2NzE1NTYuanBn/2671556_140x140.jpg"
+   },
+   {
+      "text":"普段",
+      "read":"[ふだん]",
+      "meaning":"bình thường",
+      "example-text":"私は普段はTシャツとジーンズを着ています。私は普段、自転車で大学に行きます。",
+      "example-read":"わたし は ふだん は ティーシャツ と ジーンズ を きて います。わたし は ふだん、 じてんしゃ で だいがく に いきます。",
+      "example-meaning":"Tôi thường mặc một áo thun và quần jean. Tôi thường đi đến trường đại học bằng xe đạp.",
+      "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy91c2Vycy9TbWFydC5mbS8wbDVnZHMzdmdpbnFzLmpwZw==/0l5gds3vginqs_140x140.jpg"
+   },
+   {
+      "text":"旅館",
+      "read":"[りょかん]",
+      "meaning":"quán trọ",
+      "example-text":"京都では旅館に泊まりました。旅館の朝食にのりが出ました。",
+      "example-read":"きょうと で は りょかん に とまりました。りょかん の ちょうしょく に のり が でました。",
+      "example-meaning":"Tôi ở lại một quán trọ tại Kyoto. Rong biển khô đã được phục vụ cho bữa ăn sáng tại quán trọ.",
+      "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzM3MzQ2MDQuanBn/3734604_140x140.jpg"
+   },
+   {
+      "text":"博物館",
+      "read":"[はくぶつかん]",
+      "meaning":"bảo tàng",
+      "example-text":"昨日、車の博物館に行った。ロンドンに有名な博物館があります。",
+      "example-read":"きのう、くるま の はくぶつかん に いった。ロンドン に ゆうめいな はくぶつかん が あります。",
+      "example-meaning":"Tôi đã đi đến bảo tàng xe ngày hôm qua. Có một bảo tàng nổi tiếng ở London.",
+      "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAxLzEwNTkxMjUuanBn/1059125_140x140.jpg"
+   },
+   {
+      "text":"ホーム",
+      "read":"",
+      "meaning":"sân ga",
+      "example-text":"もうすぐこのホームに電車が来ます。ホームのいちばん前で待ってます。",
+      "example-read":"もうすぐ この ホーム に でんしゃ が きます。ホーム の いちばん まえ で まってます。",
+      "example-meaning":"Các tàu sẽ đến sân ga này sớm. Tôi sẽ chờ bạn ở phía trước của sân ga này.",
+      "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzUyMDI0MDIuanBn/5202402_140x140.jpg"
+   },
+   {
+      "text":"引っ越す",
+      "read":"[ひっこす]",
+      "meaning":"chuyển nhà",
+      "example-text":"来月、大阪に引っ越します。私たちは先週、北海道から引っ越してきました。",
+      "example-read":"らいげつ、おおさか に ひっこします。わたし たち は せんしゅう、ほっかいどう から ひっこして きました。",
+      "example-meaning":"Tôi sẽ chuyển nhà đến Osaka vào tháng tới. Chúng tôi chuyển đến đây từ Hokkaido tuần trước.",
+      "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzU2OTk2OTguanBn/5699698_140x140.jpg"
+   },
+   {
+      "text":"荷物",
+      "read":"[にもつ]",
+      "meaning":"hành lý",
+      "example-text":"彼は大きな荷物を持ってきた。九日に荷物が届きます。",
+      "example-read":"かれ は おおきな にもつ を もって きた。ここのか に にもつ が とどきます。",
+      "example-meaning":"Ông ấy mang một va li lớn. Hành lý sẽ tới vào mùng 9.",
+      "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAxLzMyNjYwNDQuanBn/3266044_140x140.jpg"
+   },
+   {
+      "text":"家賃",
+      "read":"[やちん]",
+      "meaning":"tiền thuê nhà",
+      "example-text":"ここの家賃は12万円です。ここは家賃が高いので引っ越したいです。",
+      "example-read":"ここ の やちん は 12 まん えん です。ここ は やちん が たかい ので ひっこしたい です。",
+      "example-meaning":"Giá thuê ở đây là 120.000 yên. Việc thuê nhà là đắt đỏ ở đây, vì vậy tôi muốn chuyển ra ngoài.",
+      "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzMzMDUzODAuanBn/3305380_140x140.jpg"
+   },
+   {
+      "text":"計画",
+      "read":"[けいかく]",
+      "meaning":"kế hoạch",
+      "example-text":"彼は一人旅の計画を立てた。私たちは今年の夏休みにキャンプを計画しています。",
+      "example-read":"かれ は ひとり たび の けいかく を たてた。わたし たち は ことし の なつやすみ に キャンプ を けいかく して います。",
+      "example-meaning":"Ông ấy đã lên kế hoạch cho một cuộc hành trình một mình. Chúng tôi đang có kế hoạch cắm trại trong kỳ nghỉ hè năm nay.",
+      "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzUwNTA3MjYuanBn/5050726_140x140.jpg"
+   },
+   {
+      "text":"廊下",
+      "read":"[ろうか]",
+      "meaning":"hành lang",
+      "example-text":"廊下は走らないでください。廊下から大きな足音が聞こえた。",
+      "example-read":"ろうか は はしらないで ください。ろうか から おおきな あしおと が きこえた。",
+      "example-meaning":"Không chạy ở hành lang. Tôi nghe tiếng bước chân lớn từ hành lang.",
+      "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAxLzIyMzY0My5qcGc=/223643_140x140.jpg"
+   },
+   {
+      "text":"天井",
+      "read":"[てんじょう]",
+      "meaning":"trần",
+      "example-text":"この部屋は天井が高いですね。私は眠れるまでずっと天井を見ていた。",
+      "example-read":"この へや は てんじょう が たかい です ね。わたし は ねむれる まで ずっと てんじょう を みて いた。",
+      "example-meaning":"Phòng này có trần cao. Tôi nhìn đăm đăm lên trần nhà cho đến khi tôi chìm vào giấc ngủ.",
+      "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzQ3MDg2NjQuanBn/4708664_140x140.jpg"
+   },
+   {
+      "text":"ベッド",
+      "read":"",
+      "meaning":"giường",
+      "example-text":"彼はベッドで寝ています。ベッドで赤ちゃんが眠っています。",
+      "example-read":"かれ は ベッド で ねて います。ベッド で あかちゃん が ねむって います。",
+      "example-meaning":"Hắn đang ngủ trên giường. Em bé ngủ trên giường.",
+      "image":"https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzU1MDE0MTEuanBn/5501411_140x140.jpg"
+   },
+   {
+      "text":"ソファー",
+      "read":"",
+      "meaning":"sofa",
+      "example-text":"このソファーは気持ちがいい。私の犬はいつもこのソファーに座ります。",
+      "example-read":"この ソファー は きもち が いい。わたし の いぬ は いつも この ソファー に すわります。",
+      "example-meaning":"Ghế sofa này rất thoải mái. Chó của tôi luôn ngồi trên ghế sofa này.",
+      "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzUzMDU2NzEuanBn/5305671_140x140.jpg"
+   },
+   {
+      "text":"屋根",
+      "read":"[やね]",
+      "meaning":"mái nhà",
+      "example-text":"屋根にカラスが止まっています。ネコが屋根に上っている。",
+      "example-read":"やね に カラス が とまって います。ネコ が やね に のぼって いる。",
+      "example-meaning":"Có một con quạ trên mái nhà. Con mèo leo lên trên mái nhà.",
+      "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzc2ODY1LmpwZw==/76865_140x140.jpg"
+   },
+   {
+      "text":"祭り",
+      "read":"[まつり]",
+      "meaning":"lễ hội",
+      "example-text":"彼女は祭りが大好きです。5月に浅草でとても有名なお祭りがあります。",
+      "example-read":"かのじょ は まつり が だいすき です。5 がつ に あさくさ で とても ゆうめいな おまつり が あります。",
+      "example-meaning":"Cô ấy thích lễ hội. Trong tháng năm một lễ hội rất nổi tiếng diễn ra tại Asakusa.",
+      "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzU5MzgyMzcuanBn/5938237_140x140.jpg"
+   },
+   {
+      "text":"離婚",
+      "read":"[りこん]",
+      "meaning":"ly hôn",
+      "example-text":"友人が離婚しました。私たちには子供がいますが、離婚を考えています。",
+      "example-read":"ゆうじん が りこん しました。わたし たち に は こども が います が、りこん を かんがえ ています。",
+      "example-meaning":"Bạn tôi đã ly dị. Chúng tôi có một đứa con, nhưng chúng tôi đang nghĩ về việc ly hôn.",
+      "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAxLzI4OTkxMjYuanBn/2899126_140x140.jpg"
+   },
+   {
+      "text":"葉",
+      "read":"[は]",
+      "meaning":"lá",
+      "example-text":"これは桜の葉です。秋は木の葉が赤や黄色になります。",
+      "example-read":"これ は さくら の は です。あき は き の は が あか や きいろ に なります。",
+      "example-meaning":"Đây là lá cây anh đào. Trong mùa thu, lá cây chuyển sang màu đỏ hoặc màu vàng.",
+      "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzU3NDIzMzIuanBn/5742332_140x140.jpg"
+   },
+   {
+      "text":"ボート",
+      "read":"",
+      "meaning":"thuyền",
+      "example-text":"池でボートに乗りました。ボートが川に沈んだ。",
+      "example-read":"いけ で ボート に のりました。ボート が かわ に しずんだ。",
+      "example-meaning":"Tôi leo lên thuyền ở ao. Con thuyền chìm trong lòng sông.",
+      "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzM0NTI1My5qcGc=/345253_140x140.jpg"
+   },
+   {
+      "text":"燃える",
+      "read":"[もえる]",
+      "meaning":"bốc cháy",
+      "example-text":"山が燃えています。庭で何かが燃えています。",
+      "example-read":"やま が もえて います。にわ で なに か が もえて います。",
+      "example-meaning":"Ngọn núi bốc cháy. Một cái gì đó đang cháy trong sân.",
+      "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzYwNjUxMzguanBn/6065138_140x140.jpg"
+   },
+   {
+      "text":"巻く",
+      "read":"[まく]",
+      "meaning":"quấn",
+      "example-text":"彼は頭にタオルを巻いていた。彼女は今日、髪をきれいに巻いています。",
+      "example-read":"かれ は あたま に タオル を まいて いた。かのじょ は きょう、かみ を きれい に まいて います。",
+      "example-meaning":"Anh ấy quấn một chiếc khăn quanh đầu. Cô ấy cuộn tóc của mình gọn gàng ngày hôm nay.",
+      "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzM4NDE4NTYuanBn/3841856_140x140.jpg"
+   },
+   {
+      "text":"プラスチック",
+      "read":"",
+      "meaning":"nhựa",
+      "example-text":"このカップはプラスチックです。パーティーのためにプラスチックのスプーンとフォークを買いました。",
+      "example-read":"この カップ は プラスチック です。パーティー の ため に プラスチック の スプーン と フォーク を かいました。",
+      "example-meaning":"Cốc này bằng nhựa. Để chuẩn bị bữa tiệc, chúng tôi đã mua muỗng nhựa và dĩa.",
+      "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzUzNDE3MjQuanBn/5341724_140x140.jpg"
+   },
+   {
+      "text":"訪れる",
+      "read":"[おとずれる]",
+      "meaning":"ghé thăm",
+      "example-text":"私は夏に京都を訪れました。年間5万人がここを訪れます。",
+      "example-read":"わたし は なつ に きょうと を おとずれました。ねんかん 5 まん にん が ここ を おとずれます。",
+      "example-meaning":"Tôi đã đến thăm Kyoto mùa hè này. Nơi này được 50.000 du khách ghé thăm một năm.",
+      "image":"https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzQ3MDQxMDUuanBn/4704105_140x140.jpg"
+   },
+   {
+      "text":"破る",
+      "read":"[やぶる]",
+      "meaning":"làm rách",
+      "example-text":"彼は約束を破った。その男の子は、学校からの手紙を破って捨てました。",
+      "example-read":"かれ は やくそく を やぶった。その おとこ の こ は、がっこう から の てがみ を やぶって すてました。",
+      "example-meaning":"Ông đã phá vỡ lời hứa của mình. Cậu bé đó xé lá thư từ trường học và ném nó đi.",
+      "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMxLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAxLzIzNzgzNjEuanBn/2378361_140x140.jpg"
+   },
+   {
+      "text":"関係",
+      "read":"[かんけい]",
+      "meaning":"quan hệ",
+      "example-text":"彼はその事件に関係がない。私と彼は親しい関係にあります。",
+      "example-read":"かれ は その じけん に かんけい が ない。わたし と かれ は したしい かんけい に あります。",
+      "example-meaning":"Ông không có liên quan gì với vụ án đó. Anh ấy và tôi có mối quan hệ gần gũi.",
+      "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAxLzE1NTA5MDkuanBn/1550909_140x140.jpg"
+   },
+   {
+      "text":"不幸",
+      "read":"[ふこう]",
+      "meaning":"bất hạnh",
+      "example-text":"彼女の家族に不幸があった。彼女は自分が不幸だと思っています。",
+      "example-read":"かのじょ の かぞく に ふこう が あった。かのじょ は じぶん が ふこう だ と おもって います。",
+      "example-meaning":"Gia đình cô ấy bất hạnh. Cô ấy nghĩ rằng cô ấy không may.",
+      "image":"https://transcode3.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzQzMzAyOTUuanBn/4330295_140x140.jpg"
+   },
+   {
+      "text":"録音",
+      "read":"[ろくおん]",
+      "meaning":"ghi âm",
+      "example-text":"そのラジオ番組はもう録音しました。日本人の友達に日本語の文章を録音してもらいました。",
+      "example-read":"その ラジオ ばんぐみ は もう ろくおん しました。にほん じん の ともだち に にほん ご の ぶんしょう を ろくおん して もらいました。",
+      "example-meaning":"Tôi đã ghi lại chương trình radio. Tôi đã nhận được băng ghi âm tiếng Nhật từ người bạn Nhật của tôi.",
+      "image":"https://transcode0.iknow.jp/t/aHR0cHM6Ly9hc3NldHMyLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzQ2NTE0MDMuanBn/4651403_140x140.jpg"
+   }
+]

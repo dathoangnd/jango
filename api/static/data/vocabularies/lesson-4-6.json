@@ -1,0 +1,902 @@
+[
+   {
+      "text":"心臓",
+      "read":"[しんぞう]",
+      "meaning":"trái tim",
+      "example-text":"祖母は心臓が悪いんだ。",
+      "example-read":"そぼ は しんぞう が わるい ん だ。",
+      "example-meaning":"Bà tôi bị bệnh tim.",
+      "image":""
+   },
+   {
+      "text":"恐れる",
+      "read":"[おそれる]",
+      "meaning":"lo sợ",
+      "example-text":"彼は受験の失敗を恐れています。",
+      "example-read":"かれ は じゅけん の しっぱい を おそれて います。",
+      "example-meaning":"Anh ấy lo lắng rằng có thể thất bại trong kỳ thi.",
+      "image":""
+   },
+   {
+      "text":"女優",
+      "read":"[じょゆう]",
+      "meaning":"nữ diễn viên",
+      "example-text":"彼女はずっと女優になるのが夢でした。",
+      "example-read":"かのじょ は ずっと じょゆう に なる の が ゆめ でした。",
+      "example-meaning":"Trở thành một nữ diễn viên là giấc mơ suốt đời của cô ấy.",
+      "image":""
+   },
+   {
+      "text":"返る",
+      "read":"[かえる]",
+      "meaning":"trở lại",
+      "example-text":"もう一度原点に返って考えましょう。",
+      "example-read":"もう いちど げんてん に かえって かんがえましょう。",
+      "example-meaning":"Chúng ta hãy trở lại ban đầu và suy nghĩ lại.",
+      "image":""
+   },
+   {
+      "text":"実用",
+      "read":"[じつよう]",
+      "meaning":"thực dụng",
+      "example-text":"これはとても実用的なサイトだね。",
+      "example-read":"これ は とても じつようてきな サイト だ ね。",
+      "example-meaning":"Đây là một trang web rất thực tế.",
+      "image":""
+   },
+   {
+      "text":"演劇",
+      "read":"[えんげき]",
+      "meaning":"kịch",
+      "example-text":"彼女は演劇を学んでいます。",
+      "example-read":"かのじょ は えんげき を まなんで います。",
+      "example-meaning":"Cô ấy đang học kịch.",
+      "image":""
+   },
+   {
+      "text":"人種",
+      "read":"[じんしゅ]",
+      "meaning":"chủng tộc",
+      "example-text":"この国にはさまざまな人種がいます。",
+      "example-read":"この くに に は さまざまな じんしゅ が います。",
+      "example-meaning":"Có nhiều nhóm chủng tộc khác nhau ở đất nước này.",
+      "image":""
+   },
+   {
+      "text":"有料",
+      "read":"[ゆうりょう]",
+      "meaning":"trả tiền",
+      "example-text":"このトイレは有料です。",
+      "example-read":"この トイレ は ゆうりょう です。",
+      "example-meaning":"Đây là một nhà vệ sinh trả tiền.",
+      "image":""
+   },
+   {
+      "text":"住まい",
+      "read":"[すまい]",
+      "meaning":"cư trú",
+      "example-text":"私の住まいは東京にあります。",
+      "example-read":"わたし の すまい は とうきょう に あります。",
+      "example-meaning":"Nơi cư trú của tôi là ở Tokyo.",
+      "image":""
+   },
+   {
+      "text":"急速",
+      "read":"[きゅうそく]",
+      "meaning":"nhanh chóng",
+      "example-text":"あの国の経済は急速に発展しているのね。",
+      "example-read":"あの くに の けいざい は きゅうそく に はってん して いる の ね。",
+      "example-meaning":"Quốc gia đó đang trải qua sự phát triển kinh tế nhanh chóng.",
+      "image":""
+   },
+   {
+      "text":"輸送",
+      "read":"[ゆそう]",
+      "meaning":"vận chuyển",
+      "example-text":"この商品はトラックで輸送します。",
+      "example-read":"この しょうひん は トラック で ゆそう します。",
+      "example-meaning":"Chúng tôi sẽ vận chuyển hàng hóa này bằng xe tải.",
+      "image":""
+   },
+   {
+      "text":"高等",
+      "read":"[こうとう]",
+      "meaning":"cao cấp",
+      "example-text":"人間は高等な生物と言われている。",
+      "example-read":"にんげん は こうとうな せいぶつ と いわれて いる。",
+      "example-meaning":"Con người được cho là sinh vật cấp cao.",
+      "image":""
+   },
+   {
+      "text":"天然",
+      "read":"[てんねん]",
+      "meaning":"thiên nhiên",
+      "example-text":"ここは天然の温泉です。",
+      "example-read":"ここ は てんねん の おんせん です。",
+      "example-meaning":"Đây là suối nước nóng tự nhiên.",
+      "image":""
+   },
+   {
+      "text":"知人",
+      "read":"[ちじん]",
+      "meaning":"người quen",
+      "example-text":"彼は昔からの知人です。",
+      "example-read":"かれ は むかし から の ちじん です。",
+      "example-meaning":"Ông ấy là một người quen cũ.",
+      "image":""
+   },
+   {
+      "text":"まとまる",
+      "read":"",
+      "meaning":"tập hợp lại",
+      "example-text":"みんなの意見がまとまりました。",
+      "example-read":"みんな の いけん が まとまりました。",
+      "example-meaning":"Ý kiến của mọi người được tập hợp lại",
+      "image":""
+   },
+   {
+      "text":"睡眠",
+      "read":"[すいみん]",
+      "meaning":"ngủ",
+      "example-text":"1日7時間は睡眠を取るようにしています。",
+      "example-read":"1 にち 7 じかん は すいみん を とる ように して います。",
+      "example-meaning":"Tôi cố gắng để ngủ 7 tiếng mỗi ngày.",
+      "image":""
+   },
+   {
+      "text":"解く",
+      "read":"[とく]",
+      "meaning":"giải quyết",
+      "example-text":"この問題を解けますか。",
+      "example-read":"この もんだい を とけます か。",
+      "example-meaning":"Bạn có thể giải quyết câu hỏi này không?",
+      "image":""
+   },
+   {
+      "text":"自慢",
+      "read":"[じまん]",
+      "meaning":"tự mãn",
+      "example-text":"彼女はよく自分の成績を自慢するよね。",
+      "example-read":"かのじょ は よく じぶん の せいせき を じまん する よ ね。",
+      "example-meaning":"Cô ấy thường khoe khoang điểm số của mình.",
+      "image":""
+   },
+   {
+      "text":"国語",
+      "read":"[こくご]",
+      "meaning":"quóc ngữ",
+      "example-text":"今日の1時間目は国語です。",
+      "example-read":"きょう の 1 じかん め は こくご です。",
+      "example-meaning":"Môn đầu tiên hôm nay là tiếng Nhật.",
+      "image":""
+   },
+   {
+      "text":"焦点",
+      "read":"[しょうてん]",
+      "meaning":"tiêu điểm",
+      "example-text":"焦点を絞って話しましょう。",
+      "example-read":"しょうてん を しぼって はなしましょう。",
+      "example-meaning":"Hãy tập trung vào vấn đề này.",
+      "image":""
+   },
+   {
+      "text":"食料",
+      "read":"[しょくりょう]",
+      "meaning":"thực phẩm",
+      "example-text":"食料はこの箱に入っています。",
+      "example-read":"しょくりょう は この はこ に はいって います。",
+      "example-meaning":"Thực phẩm được cho trong hộp này.",
+      "image":""
+   },
+   {
+      "text":"黙る",
+      "read":"[だまる]",
+      "meaning":"im lặng",
+      "example-text":"彼はいつも黙って仕事をします。",
+      "example-read":"かれ は いつも だまって しごと を します。",
+      "example-meaning":"Anh ấy luôn làm việc trong im lặng.",
+      "image":""
+   },
+   {
+      "text":"貧しい",
+      "read":"[まずしい]",
+      "meaning":"nghèo khổ",
+      "example-text":"彼は貧しい家庭で育ったんだ。",
+      "example-read":"かれ は まずしい かてい で そだった ん だ。",
+      "example-meaning":"Ông lớn lên trong một gia đình nghèo.",
+      "image":""
+   },
+   {
+      "text":"増大",
+      "read":"[ぞうだい]",
+      "meaning":"tăng",
+      "example-text":"生産コスト増大のため、値上げします。",
+      "example-read":"せいさん コスト ぞうだい の ため、ねあげ します。",
+      "example-meaning":"Chúng tôi sẽ tăng giá vì chi phí sản xuất đang tăng lên.",
+      "image":""
+   },
+   {
+      "text":"組み合わせ",
+      "read":"[くみあわせ]",
+      "meaning":"kết hợp",
+      "example-text":"色の組み合わせで印象が変わりますよ。",
+      "example-read":"いろ の くみあわせ で いんしょう が かわります よ。",
+      "example-meaning":"Ấn tượng thay đổi theo sự kết hợp màu sắc.",
+      "image":""
+   },
+   {
+      "text":"金属",
+      "read":"[きんぞく]",
+      "meaning":"kim loại",
+      "example-text":"アルミニウムは金属の一種です。",
+      "example-read":"アルミニウム は きんぞく の いっしゅ です。",
+      "example-meaning":"Nhôm là một kim loại.",
+      "image":""
+   },
+   {
+      "text":"評判",
+      "read":"[ひょうばん]",
+      "meaning":"có tiếng",
+      "example-text":"評判の良いレストランに行きました。",
+      "example-read":"ひょうばん の いい レストラン に いきました。",
+      "example-meaning":"Chúng tôi đã đi đến một nhà hàng có tiếng.",
+      "image":""
+   },
+   {
+      "text":"絞る",
+      "read":"[しぼる]",
+      "meaning":"vắt",
+      "example-text":"布をもっと固く絞りなさい。",
+      "example-read":"ぬの を もっと かたく しぼりなさい。",
+      "example-meaning":"Hãy vắt vải khô hơn nữa.",
+      "image":""
+   },
+   {
+      "text":"コーチ",
+      "read":"",
+      "meaning":"huấn luyện viên",
+      "example-text":"新しいコーチの指導は厳しかった。",
+      "example-read":"あたらしい コーチ の しどう は きびしかった。",
+      "example-meaning":"Huấn luyện viên mới chỉ đạo rất khắc nghiệt.",
+      "image":""
+   },
+   {
+      "text":"栄養",
+      "read":"[えいよう]",
+      "meaning":"dinh dưỡng",
+      "example-text":"豆腐は栄養のある食べ物です。",
+      "example-read":"とうふ は えいよう の ある たべもの です。",
+      "example-meaning":"Đậu phụ là một thực phẩm bổ dưỡng.",
+      "image":""
+   },
+   {
+      "text":"半ば",
+      "read":"[なかば]",
+      "meaning":"nửa chừng",
+      "example-text":"彼は30代の半ばです。",
+      "example-read":"かれ は 30 だい の なかば です。",
+      "example-meaning":"Anh ấy ở giữa độ tuổi 30 tới 40.",
+      "image":""
+   },
+   {
+      "text":"豆",
+      "read":"[まめ]",
+      "meaning":"đậu",
+      "example-text":"今、豆を煮ています。",
+      "example-read":"いま、まめ を にて います。",
+      "example-meaning":"Tôi đang nấu đậu bây giờ.",
+      "image":""
+   },
+   {
+      "text":"仲",
+      "read":"[なか]",
+      "meaning":"mối quan hệ",
+      "example-text":"あなたたちは仲がいいですね。",
+      "example-read":"あなた たち は なか が いい です ね。",
+      "example-meaning":"Các bạn có mối quan hệ tốt không?",
+      "image":""
+   },
+   {
+      "text":"鑑賞",
+      "read":"[かんしょう]",
+      "meaning":"thưởng thức",
+      "example-text":"今夜はオペラ鑑賞に行きます。",
+      "example-read":"こんや は オペラ かんしょう に いきます。",
+      "example-meaning":"Tôi sẽ xem một vở opera tối nay.",
+      "image":""
+   },
+   {
+      "text":"覆う",
+      "read":"[おおう]",
+      "meaning":"che đậy",
+      "example-text":"雲が空を覆っているね。",
+      "example-read":"くも が そら を おおって いる ね。",
+      "example-meaning":"Bầu trời được bao phủ bởi những đám mây.",
+      "image":""
+   },
+   {
+      "text":"臨時",
+      "read":"[りんじ]",
+      "meaning":"tạm thời",
+      "example-text":"彼女は臨時の店員です。",
+      "example-read":"かのじょ は りんじ の てんいん です。",
+      "example-meaning":"Cô ấy là một thư ký tạm thời.",
+      "image":""
+   },
+   {
+      "text":"ジャーナリスト",
+      "read":"",
+      "meaning":"nhà báo",
+      "example-text":"彼女は有能なジャーナリストだ。",
+      "example-read":"かのじょ は ゆうのうな ジャーナリスト だ。",
+      "example-meaning":"Cô là một nhà báo có năng lực.",
+      "image":""
+   },
+   {
+      "text":"せめて",
+      "read":"",
+      "meaning":"ít nhất là",
+      "example-text":"せめてこれだけは約束してください。",
+      "example-read":"せめて これ だけ は やくそく して ください。",
+      "example-meaning":"Ít nhất thì cũng xin hứa chỉ điều này.",
+      "image":""
+   },
+   {
+      "text":"働き",
+      "read":"[はたらき]",
+      "meaning":"công việc",
+      "example-text":"部下がすばらしい働きをしたな。",
+      "example-read":"ぶか が すばらしい はたらき を した な。",
+      "example-meaning":"Cấp dưới của tôi đã làm một công việc tuyệt vời.",
+      "image":""
+   },
+   {
+      "text":"論じる",
+      "read":"[ろんじる]",
+      "meaning":"thảo luận",
+      "example-text":"仲間と地球の未来について論じたの。",
+      "example-read":"なかま と ちきゅう の みらい について ろんじた の。",
+      "example-meaning":"Tôi đã thảo luận về tương lai của trái đất với bạn bè của tôi.",
+      "image":""
+   },
+   {
+      "text":"演説",
+      "read":"[えんぜつ]",
+      "meaning":"bài phát biểu",
+      "example-text":"彼は地方で演説したのよ。",
+      "example-read":"かれ は ちほう で えんぜつ した の よ。",
+      "example-meaning":"Ông ấy đã có bài phát biểu tại địa phương.",
+      "image":""
+   },
+   {
+      "text":"取り出す",
+      "read":"[とりだす]",
+      "meaning":"đưa ra",
+      "example-text":"彼はポケットから財布を取り出したの。",
+      "example-read":"かれ は ポケット から さいふ を とりだした の。",
+      "example-meaning":"Ông đã lấy ví từ túi của mình.",
+      "image":""
+   },
+   {
+      "text":"窓口",
+      "read":"[まどぐち]",
+      "meaning":"cửa sổ",
+      "example-text":"お振込みは3番の窓口です。",
+      "example-read":"おふりこみ は 3 ばん の まどぐち です。",
+      "example-meaning":"Chuyển khoản ngân hàng có thể được thực hiện tại cửa sổ số 3.",
+      "image":""
+   },
+   {
+      "text":"もともと",
+      "read":"",
+      "meaning":"ban đầu",
+      "example-text":"彼女はもともとフランスに行くつもりだったの。",
+      "example-read":"かのじょ は もともと フランス に いく つもり だった の 。",
+      "example-meaning":"Ban đầu cô ấy lên kế hoạch đi Pháp.",
+      "image":""
+   },
+   {
+      "text":"勧める",
+      "read":"[すすめる]",
+      "meaning":"đề nghị",
+      "example-text":"勧められて欲しくもないものを買っちゃったよ。",
+      "example-read":"すすめられて ほしく も ない もの を かっちゃった よ。",
+      "example-meaning":"Sau khi được chài mồi thì tôi đã lỡ mua món đồ mà tôi không muốn.",
+      "image":""
+   },
+   {
+      "text":"飽きる",
+      "read":"[あきる]",
+      "meaning":"chán",
+      "example-text":"その子はおもちゃに飽きたようだね。",
+      "example-read":"その こ は おもちゃ に あきた ようだ ね。",
+      "example-meaning":"Đứa trẻ dường như đã chán đồ chơi.",
+      "image":""
+   },
+   {
+      "text":"飛ばす",
+      "read":"[とばす]",
+      "meaning":"phi lên",
+      "example-text":"子供が紙飛行機を飛ばしています。",
+      "example-read":"こども が かみ ひこうき を とばして います。",
+      "example-meaning":"Đứa trẻ đang phi một chiếc máy bay giấy.",
+      "image":""
+   },
+   {
+      "text":"根",
+      "read":"[ね]",
+      "meaning":"gốc rễ",
+      "example-text":"この木の根はとても太いな。",
+      "example-read":"この き の ね は とても ふとい な。",
+      "example-meaning":"Gốc cây này rất dày.",
+      "image":""
+   },
+   {
+      "text":"突っ込む",
+      "read":"[つっこむ]",
+      "meaning":"đẩy vào",
+      "example-text":"ポケットに財布を突っ込んじゃった。",
+      "example-read":"ポケット に さいふ を つっこんじゃった。",
+      "example-meaning":"Tôi đẩy ví của tôi vào túi.",
+      "image":""
+   },
+   {
+      "text":"端",
+      "read":"[はし]",
+      "meaning":"bờ",
+      "example-text":"辞書は本棚の端にあります。",
+      "example-read":"じしょ は ほんだな の はし に あります。",
+      "example-meaning":"Từ điển là ở phần cuối của kệ sách.",
+      "image":""
+   },
+   {
+      "text":"スライド",
+      "read":"",
+      "meaning":"trượt",
+      "example-text":"このふたはスライドします。",
+      "example-read":"この ふた は スライド します。",
+      "example-meaning":"Toi trượt nắp sang.",
+      "image":""
+   },
+   {
+      "text":"乾燥",
+      "read":"[かんそう]",
+      "meaning":"khô",
+      "example-text":"冬は空気が乾燥しますね。",
+      "example-read":"ふゆ は くうき が かんそう します ね。",
+      "example-meaning":"Không khí trong mùa đông là khô.",
+      "image":""
+   },
+   {
+      "text":"立ち上がる",
+      "read":"[たちあがる]",
+      "meaning":"đứng lên",
+      "example-text":"彼は急に立ち上がったの。",
+      "example-read":"かれ は きゅうに たちあがった の。",
+      "example-meaning":"Ông đột nhiên đứng dậy.",
+      "image":""
+   },
+   {
+      "text":"サークル",
+      "read":"",
+      "meaning":"câu lạc bộ",
+      "example-text":"どのサークルに入るか迷っちゃった。",
+      "example-read":"どの サークル に はいる か まよっちゃった。",
+      "example-meaning":"Tôi không biết nên tham gia câu lạc bộ nào.",
+      "image":""
+   },
+   {
+      "text":"憧れる",
+      "read":"[あこがれる]",
+      "meaning":"mong muốn",
+      "example-text":"彼はパイロットの職に憧れているんだ。",
+      "example-read":"かれ は パイロット の しょく に あこがれて いる ん だ。",
+      "example-meaning":"Anh ấy mong ước có thể trở thành một phi công.",
+      "image":""
+   },
+   {
+      "text":"都会",
+      "read":"[とかい]",
+      "meaning":"đô thị",
+      "example-text":"彼は都会での生活を楽しんでいるの。",
+      "example-read":"かれ は とかい で の せいかつ を たのしんで いる の。",
+      "example-meaning":"Anh ấy đã tận hưởng cuộc sống thành phố.",
+      "image":""
+   },
+   {
+      "text":"花火",
+      "read":"[はなび]",
+      "meaning":"pháo hoa",
+      "example-text":"昨日、花火を見にいったよ。",
+      "example-read":"きのう 、 はなび を みに いった よ。",
+      "example-meaning":"Tôi đã đi xem pháo hoa ngày hôm qua.",
+      "image":""
+   },
+   {
+      "text":"回数",
+      "read":"[かいすう]",
+      "meaning":"số lần",
+      "example-text":"最近はテレビを見る回数が減りました。",
+      "example-read":"さいきん は テレビ を みる かいすう が へりました。",
+      "example-meaning":"Tôi xem TV ít thường xuyên hơn những ngày này.",
+      "image":""
+   },
+   {
+      "text":"墓",
+      "read":"[はか]",
+      "meaning":"mộ",
+      "example-text":"祖父の墓は近くにあります。",
+      "example-read":"そふ の はか は ちかく に あります。",
+      "example-meaning":"Mộ của ông nội tôi ở gần đó.",
+      "image":""
+   },
+   {
+      "text":"表紙",
+      "read":"[ひょうし]",
+      "meaning":"bìa",
+      "example-text":"その人気アイドルが今月の表紙だよ。",
+      "example-read":"その にんき アイドル が こんげつ の ひょうし だ よ。",
+      "example-meaning":"Các ngôi sao nổi tiếng trên bìa báo tháng này.",
+      "image":""
+   },
+   {
+      "text":"泉",
+      "read":"[いずみ]",
+      "meaning":"suối",
+      "example-text":"森の中にきれいな泉があるの。",
+      "example-read":"もり の なか に きれいな いずみ が ある の。",
+      "example-meaning":"Có một con suối đẹp trong rừng.",
+      "image":""
+   },
+   {
+      "text":"冒険",
+      "read":"[ぼうけん]",
+      "meaning":"phiêu lưu",
+      "example-text":"昔の子供たちは冒険小説をよく読みました。",
+      "example-read":"むかし の こども たち は ぼうけん しょうせつ を よく よみました。",
+      "example-meaning":"Trẻ em ngày trước đọc rất nhiều tiểu thuyết phiêu lưu.",
+      "image":""
+   },
+   {
+      "text":"大陸",
+      "read":"[たいりく]",
+      "meaning":"lục địa",
+      "example-text":"ユーラシアは世界で最も大きい大陸です。",
+      "example-read":"ユーラシア は せかい で もっとも おおきい たいりく です。",
+      "example-meaning":"Á-Âu là lục địa lớn nhất thế giới.",
+      "image":""
+   },
+   {
+      "text":"角度",
+      "read":"[かくど]",
+      "meaning":"góc",
+      "example-text":"この角度からは画面が見えにくいですね。",
+      "example-read":"この かくど から は がめん が みえ にくい です ね。",
+      "example-meaning":"Thật khó để nhìn thấy màn hình từ góc này.",
+      "image":""
+   },
+   {
+      "text":"破る",
+      "read":"[やぶる]",
+      "meaning":"đánh bại",
+      "example-text":"彼は強敵を見事に破ったね。",
+      "example-read":"かれ は きょうてき を みごと に やぶった ね。",
+      "example-meaning":"Anh ấy đánh bại đối thủ mạnh một cách ngoạn mục.",
+      "image":""
+   },
+   {
+      "text":"語学",
+      "read":"[ごがく]",
+      "meaning":"ngôn ngữ học",
+      "example-text":"海外で語学の勉強をします。",
+      "example-read":"かいがい で ごがく の べんきょう を します。",
+      "example-meaning":"Tôi sẽ học ngôn ngữ học ở nước ngoài.",
+      "image":""
+   },
+   {
+      "text":"クラシック",
+      "read":"",
+      "meaning":"cổ điển",
+      "example-text":"彼女はクラシック音楽が好きです。",
+      "example-read":"かのじょ は クラシック おんがく が すき です。",
+      "example-meaning":"Cô ấy thích nhạc cổ điển.",
+      "image":""
+   },
+   {
+      "text":"記号",
+      "read":"[きごう]",
+      "meaning":"ký hiệu",
+      "example-text":"地図にはいろいろな記号が使われているのね。",
+      "example-read":"ちず に は いろいろな きごう が つかわれて いる の ね。",
+      "example-meaning":"Một loạt các biểu tượng được sử dụng trên bản đồ.",
+      "image":""
+   },
+   {
+      "text":"幼児",
+      "read":"[ようじ]",
+      "meaning":"trẻ con",
+      "example-text":"幼児は入場無料です。",
+      "example-read":"ようじ は にゅうじょう むりょう です。",
+      "example-meaning":"Không có phí vào cửa cho trẻ nhỏ.",
+      "image":""
+   },
+   {
+      "text":"稽古",
+      "read":"[けいこ]",
+      "meaning":"rèn luyện",
+      "example-text":"相撲の稽古はとても厳しいよ。",
+      "example-read":"すもう の けいこ は とても きびしい よ。",
+      "example-meaning":"Việc rèn luyện sumo là rất khó khăn.",
+      "image":""
+   },
+   {
+      "text":"来日",
+      "read":"[らいにち]",
+      "meaning":"tới Nhật Bản",
+      "example-text":"有名なバンドが来日していますね。",
+      "example-read":"ゆうめいな バンド が らいにち して います ね。",
+      "example-meaning":"Một ban nhạc nổi tiếng đến Nhật Bản.",
+      "image":""
+   },
+   {
+      "text":"縦",
+      "read":"[たて]",
+      "meaning":"chiều dọc",
+      "example-text":"縦2列に並んでください。",
+      "example-read":"たて 2 れつ に ならんで ください。",
+      "example-meaning":"Hãy xếp 2 hàng theo chiều dọc.",
+      "image":""
+   },
+   {
+      "text":"順調",
+      "read":"[じゅんちょう]",
+      "meaning":"thuận lợi",
+      "example-text":"進み具合は全て順調です。",
+      "example-read":"すすみ ぐあい は すべて じゅんちょう です。",
+      "example-meaning":"Tất cả tiến độ là thuận lợi.",
+      "image":""
+   },
+   {
+      "text":"満ちる",
+      "read":"[みちる]",
+      "meaning":"đầy đủ",
+      "example-text":"月が満ちてきましたね。",
+      "example-read":"つき が みちて きました ね。",
+      "example-meaning":"Mặt Trăng tròn đầy.",
+      "image":""
+   },
+   {
+      "text":"飼う",
+      "read":"[かう]",
+      "meaning":"nuôi giữ",
+      "example-text":"ペットを飼ったことはありますか。",
+      "example-read":"ペット を かった こと は あります か。",
+      "example-meaning":"Bạn đã bao giờ có một con vật cưng chưa?",
+      "image":""
+   },
+   {
+      "text":"付き合い",
+      "read":"[つきあい]",
+      "meaning":"sự giao thiệp",
+      "example-text":"今日は付き合いで帰りが遅くなります。",
+      "example-read":"きょう は つきあい で かえり が おそく なります。",
+      "example-meaning":"Tôi về nhà vào cuối ngày hôm nay vì bận đi gặp gỡ đối tác.",
+      "image":""
+   },
+   {
+      "text":"軍隊",
+      "read":"[ぐんたい]",
+      "meaning":"quân đội",
+      "example-text":"彼は軍隊に入ったよ。",
+      "example-read":"かれ は ぐんたい に はいった よ。",
+      "example-meaning":"Ông gia nhập lực lượng quân sự.",
+      "image":""
+   },
+   {
+      "text":"もしも",
+      "read":"",
+      "meaning":"nếu như",
+      "example-text":"もしも彼女と結婚できたらどんなに嬉しいだろう。",
+      "example-read":"もしも かのじょ と けっこん できたら どんな に うれしい だろう。",
+      "example-meaning":"Nếu tôi có thể kết hôn với cô ấy thì sẽ hạnh phúc biết bao.",
+      "image":""
+   },
+   {
+      "text":"プリント",
+      "read":"",
+      "meaning":"in",
+      "example-text":"デジカメで撮った写真をプリントしたんだ。",
+      "example-read":"デジカメ で とった しゃしん を プリント した ん だ。",
+      "example-meaning":"Tôi in các bức ảnh đã chụp với máy ảnh kỹ thuật số của tôi.",
+      "image":""
+   },
+   {
+      "text":"手間",
+      "read":"[てま]",
+      "meaning":"công sức",
+      "example-text":"これはとても手間のかかる料理です。",
+      "example-read":"これ は とても てま の かかる りょうり です。",
+      "example-meaning":"Đây là một món ăn rất tốn công sức.",
+      "image":""
+   },
+   {
+      "text":"正面",
+      "read":"[しょうめん]",
+      "meaning":"phía trước",
+      "example-text":"その家の正面には大きなバルコニーがあるの。",
+      "example-read":"その いえ の しょうめん に は おおきな バルコニー が ある の。",
+      "example-meaning":"Có một ban công lớn ở phía trước của ngôi nhà.",
+      "image":""
+   },
+   {
+      "text":"地帯",
+      "read":"[ちたい]",
+      "meaning":"vùng",
+      "example-text":"この都市は工業地帯です。",
+      "example-read":"この とし は こうぎょう ちたい です。",
+      "example-meaning":"Thành phố này là một khu công nghiệp.",
+      "image":""
+   },
+   {
+      "text":"塔",
+      "read":"[とう]",
+      "meaning":"tháp",
+      "example-text":"あの塔の高さはどれくらいですか。",
+      "example-read":"あの とう の たかさ は どれ くらい です か。",
+      "example-meaning":"Tháp đó cao bao nhiêu?",
+      "image":""
+   },
+   {
+      "text":"役所",
+      "read":"[やくしょ]",
+      "meaning":"công sở",
+      "example-text":"役所で住民票をもらってきた。",
+      "example-read":"やくしょ で じゅうみん ひょう を もらって きた。",
+      "example-meaning":"Tôi đã đi đến công sở để làm thẻ cư trú.",
+      "image":""
+   },
+   {
+      "text":"定価",
+      "read":"[ていか]",
+      "meaning":"giá",
+      "example-text":"この本の定価は525円です。",
+      "example-read":"この ほん の ていか は 525 えん です。",
+      "example-meaning":"Giá của cuốn sách này là 525 yên.",
+      "image":""
+   },
+   {
+      "text":"休暇",
+      "read":"[きゅうか]",
+      "meaning":"nghỉ mát",
+      "example-text":"今度の休暇にフィリピンに行きます。",
+      "example-read":"こんど の きゅうか に フィリピン に いきます。",
+      "example-meaning":"Tôi sẽ đến Philippines cho kỳ nghỉ tiếp theo.",
+      "image":""
+   },
+   {
+      "text":"行方",
+      "read":"[ゆくえ]",
+      "meaning":"hành tung",
+      "example-text":"彼の行方が分かりません。",
+      "example-read":"かれ の ゆくえ が わかりません。",
+      "example-meaning":"Tôi không biết tung tích của hắn.",
+      "image":""
+   },
+   {
+      "text":"批評",
+      "read":"[ひひょう]",
+      "meaning":"bình luận",
+      "example-text":"その映画はよい批評を得ているんだ。",
+      "example-read":"その えいが は よい ひひょう を えて いる ん だ。",
+      "example-meaning":"Bộ phim đã nhận được bình luận tốt.",
+      "image":""
+   },
+   {
+      "text":"つぐ",
+      "read":"",
+      "meaning":"rót",
+      "example-text":"お酒をおつぎしましょう。",
+      "example-read":"おさけ を おつぎ しましょう 。",
+      "example-meaning":"Hãy để tôi rót rượu cho bạn.",
+      "image":""
+   },
+   {
+      "text":"別れ",
+      "read":"[わかれ]",
+      "meaning":"chia tách",
+      "example-text":"別れはいつでも悲しいものです。",
+      "example-read":"わかれ は いつ で も かなしい もの です。",
+      "example-meaning":"Chia tay luôn buồn.",
+      "image":""
+   },
+   {
+      "text":"図書",
+      "read":"[としょ]",
+      "meaning":"sách",
+      "example-text":"これは児童図書です。",
+      "example-read":"これ は じどう としょ です。",
+      "example-meaning":"Đây là cuốn sách dành cho trẻ em.",
+      "image":""
+   },
+   {
+      "text":"ボーナス",
+      "read":"",
+      "meaning":"tiền thưởng",
+      "example-text":"今年はボーナスがたくさん出ました。",
+      "example-read":"ことし は ボーナス が たくさん でました。",
+      "example-meaning":"Chúng tôi đã nhận được rất nhiều tiền thưởng trong năm nay.",
+      "image":""
+   },
+   {
+      "text":"例える",
+      "read":"[たとえる]",
+      "meaning":"so sánh",
+      "example-text":"彼は彼女をバラに例えたんだ。",
+      "example-read":"かれ は かのじょ を バラ に たとえた ん だ。",
+      "example-meaning":"Anh ấy so sánh cô với một đóa hồng.",
+      "image":""
+   },
+   {
+      "text":"学年",
+      "read":"[がくねん]",
+      "meaning":"năm học",
+      "example-text":"彼は私より一学年上です。",
+      "example-read":"かれ は わたし より ひと がくねん うえ です。",
+      "example-meaning":"Anh ta học trên tôi một khóa ở trường.",
+      "image":""
+   },
+   {
+      "text":"砂",
+      "read":"[すな]",
+      "meaning":"cát",
+      "example-text":"靴に砂が入ってしまった。",
+      "example-read":"くつ に すな が はいって しまった。",
+      "example-meaning":"Có cát trong giày của tôi.",
+      "image":""
+   },
+   {
+      "text":"ポスター",
+      "read":"",
+      "meaning":"tờ quảng cáo",
+      "example-text":"電柱にポスターが貼ってあった。",
+      "example-read":"でんちゅう に ポスター が はって あった。",
+      "example-meaning":"Có một tờ quảng cáo trên cột điện.",
+      "image":""
+   },
+   {
+      "text":"衝突",
+      "read":"[しょうとつ]",
+      "meaning":"xung đột",
+      "example-text":"そこの角で車同士が衝突したのよ。",
+      "example-read":"そこ の かど で くるま どうし が しょうとつ した の よ。",
+      "example-meaning":"Những chiếc xe va chạm vào nhau ở góc đó.",
+      "image":""
+   },
+   {
+      "text":"詰まる",
+      "read":"[つまる]",
+      "meaning":"bít tắc",
+      "example-text":"このパイプは詰まっていますよ。",
+      "example-read":"この パイプ は つまって います よ。",
+      "example-meaning":"Ống này bị tắc.",
+      "image":""
+   },
+   {
+      "text":"崩れる",
+      "read":"[くずれる]",
+      "meaning":"sụp đổ",
+      "example-text":"大雨で崖が崩れたね。",
+      "example-read":"おおあめ で がけ が くずれた ね。",
+      "example-meaning":"Vách đá sụp đổ trong trận mưa lớn.",
+      "image":""
+   },
+   {
+      "text":"全身",
+      "read":"[ぜんしん]",
+      "meaning":"toàn thân",
+      "example-text":"運動した翌日は全身の筋肉が痛い。",
+      "example-read":"うんどう した よくじつ は ぜんしん の きんにく が いたい。",
+      "example-meaning":"Tôi bị đau cơ toàn thân trong ngày sau khi tập luyện.",
+      "image":""
+   }
+]
